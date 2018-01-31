@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Kvara Dimensio
+email: al4ndrade@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "al4ndrade.github.io" # the subpath of your site, e.g. /blog
+  Kvara Dimensio significa cuarta dimensión. Tiene un gran significado para mi,
+  ya que al vivir en 3D puedo darme cuenta de mis limitaciones y apreciar la 
+  grandesa del universo de otra manera.
+  Bienvenido a mi Blog. Yo soy Al Andrade. ¡Disfruta!
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: al_andrade
+github_username:  al4ndrade
 
 # Build settings
 markdown: kramdown

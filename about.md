@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Soy arreglista y compositor por vocación, actualmente soy Director Musical en School of Rock Lomas Verdes, pero no todo en mi vida es música. Soy ingeniero egresado del Instituto Politécnico Nacional, escuela donde encontré mi otra gran pasión, programar. Aunque la música me alejó mucho tiempo de este tema, lo he retomado y gran parte de mi tiempo la dedico a continuar aprendiendo temas como Deep Learning; Machine Learning; Artificial Inteligence; Data Science, y lo que pueda encontrar de nuevas tecnologías. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+En este Blog podrás encontrar temas de tecnología, música, procesos de mi vida y opiniones personales.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Este es mi link para mi canal de tecnología:
+[TechChannel](https:www.youtube.com)
+
+Este es mi link para mi canal de música:
+[MusicChannel](https://github.com/jekyll/jekyll)
+
+Bienvenido a mi Blog. Yo soy Al Andrade. ¡Disfruta!    
 
 
-[jekyll-organization]: https://github.com/jekyll
