@@ -6,7 +6,7 @@ date: 2018-01-06 09:00:00 -0600
 
 ---
 <link rel="stylesheet" href="{{site.baseurl}}/css/blogposts.css">
-<meta property="og:description" content="Incluso las industrias que ven lo que viene, no estarán listas para el impacto." />
+
 
 Tenemos la fortuna de vivir una epoca de mucha colaboración tecnológica. El flujo de la información es tan veloz que permite tener avances y cambios en corto tiempo. 
 La gran diferencia de las revoluciones o cambios tecnologicos del pasado, es que hoy el mundo entero se puede enterar con mucha rapidez. 
