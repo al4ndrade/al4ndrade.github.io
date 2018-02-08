@@ -1,10 +1,10 @@
 ---
-title: "El Tsunami Tecnológico Que Destruirá Muchas Industrias"
+title:	"El Tsunami Tecnológico Que Destruirá Muchas Industrias"
 description: Incluso las industrias que ven lo que viene, no estarán listas para el impacto.
-image: "{{site.baseurl}}/images/tsunami.jpg"
-date: 2018-01-06 09:00:00 -0600
-
+image: 	al4ndrade.github.io/images/tsunami.jpg
+date: 	2018-01-06 09:00:00 -0600
 ---
+
 <link rel="stylesheet" href="{{site.baseurl}}/css/blogposts.css">
 
 
