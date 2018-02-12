@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Kvara Dimensio
+title: Mi mente, mis ideas, mi blog.
 email: al4ndrade@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kvara Dimensio significa cuarta dimensión. Tiene un gran significado para mi,
-  ya que al vivir en 3D puedo darme cuenta de mis limitaciones y apreciar la 
-  grandesa del universo de otra manera.
+  El título de este Blog "Mi mente, mis ideas, mi blog" describe mucho lo que podrás encontrar
+  aquí. Te invito a que leas y compartas las publicaciones que encuentres interesantes.
   Bienvenido a mi Blog. Yo soy Al Andrade. ¡Disfruta!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://al4ndrade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
