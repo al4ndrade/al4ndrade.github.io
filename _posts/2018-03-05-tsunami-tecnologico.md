@@ -2,7 +2,7 @@
 title:	"El Tsunami Tecnológico Que Destruirá Muchas Industrias"
 description: ¿Qué industria podría desaparecer en los próximos años?
 image: 	http://al4ndrade.github.io/images/tsunami.jpg
-date: 	2018-02-19
+date: 	2018-03-05
 ---
 
 <link rel="stylesheet" href="{{site.baseurl}}/css/blogposts.css">
