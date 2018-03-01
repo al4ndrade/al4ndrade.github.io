@@ -9,10 +9,10 @@ Soy arreglista y compositor por vocación, actualmente soy Director Musical en S
 En este Blog podrás encontrar temas de tecnología, música, procesos de mi vida y opiniones personales.
 
 Este es mi link para mi canal de tecnología:
-[TechChannel](https:www.youtube.com)
+[TechChannel](http://www.youtube.com/c/AlAndrade7)
 
 Este es mi link para mi canal de música:
-[MusicChannel](https://github.com/jekyll/jekyll)
+[MusicChannel](https://www.youtube.com/channel/UC5qhWirZA2A70uHAgrL5TNQ)
 
 Bienvenido a mi Blog. Yo soy Al Andrade. ¡Disfruta!    
 
