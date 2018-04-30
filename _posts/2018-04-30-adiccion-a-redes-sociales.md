@@ -13,7 +13,8 @@ En 1990 el mundo vió nacer a "La World Wide Web" o www, pero es hasta 1993 que 
 
 Internet en el 2003
 
-![]({{site.baseurl}}/images/internet2003.png){:class="img-responsive"}
+![]({{site.baseurl}}/images/internet2003.png){:class="img-responsive"} This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+© 2014 by LyonLabs, LLC and Barrett Lyon.  Hosted by Defense.Net
 
 <br>Asia - Rojo
 <br>Europa - Verde
@@ -27,7 +28,8 @@ Cada línea entre dos nodos representa un enlace entre dos direcciones IP.
 Internet en el 2015
 
 
-![]({{site.baseurl}}/images/internet2015.png){:class="img-responsive"}
+![]({{site.baseurl}}/images/internet2015.png){:class="img-responsive"} This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+© 2014 by LyonLabs, LLC and Barrett Lyon.  Hosted by Defense.Net
 
 <br>Norte América - Azul
 <br>Europa - Verde
