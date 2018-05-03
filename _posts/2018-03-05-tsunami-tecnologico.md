@@ -42,6 +42,8 @@ Cada día es más dificil cumplir estos puntos. Google, Facebook y Amazon, tiene
 
 En conclusión. La penetración de internet y smartphones está en incremento y no tardará para que no sea rentable seguir en un negocio que abarca muy poco porcentaje de la población.  Mi suposición es que el periódico en papel dejará de existir, pero dejemos que el tiempo nos diga acertadamente. ¿Qué opinas?
 
+Sigueme en twitter [@al_andrade](https://www.twitter.com/al_andrade)
+
 
 
 
