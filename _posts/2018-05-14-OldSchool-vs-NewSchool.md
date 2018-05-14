@@ -19,20 +19,20 @@ Simple, en 1970 apareció internet, y hoy el avance a sido tal que la tecnologí
 
 Antes teníamos enciclopedias y podiamos usar las mismas por muchos años. Esa información podía estar desacreditada y sin embargo seguíamos estudiándola. Hoy no sucede eso, hoy actualizamos la información con gran velocidad gracias a internet, redes sociales y tecnología. 
 
-Obviamente esto no es suficiente para disrumpir la educación. Las escuelas también usan esta tecnología en su favor.  Pero tienen un sistema arcaico, y es dificil que se muevan a la velocidad de los avances. En una escuela se crea un plan de estudios, luego se aprueba. El diseño de este plan de estudios lleva tiempo, hay que integrar evaluaciones. Además en muchos paises como en México hay un organismo encargado de verificar lo que estás ofreciendo y decide que es lo obligatorio para cada nivel.
+Obviamente esto no es suficiente para disrumpir la educación. Las escuelas también usan tecnología en su favor.  Pero tienen un sistema arcáico, y es difícil que se muevan a la velocidad de los avances. En una escuela se crea un plan de estudios, luego se aprueba. El diseño de este plan de estudios lleva tiempo, hay que integrar evaluaciones. Además en muchos paises como en México hay un organismo encargado de verificar lo que estás ofreciendo y decide que es lo obligatorio para cada nivel.
 Entonces al surgir un avance tecnológico, no es posible hacer un cambio de direccion inmediatamente, hay q atravezar un proceso, lo cual deja al viejo sistema en desventaja.
 
 ![]({{site.baseurl}}/images/blackboard.jpg){:class="img-responsive"}
 
-Los que hemos estudiado sabemos que mucho de lo que aprendimos fue determinante en nuestra formación, y estamos agradecidos por ello, sin embargo también sabemos que mucho de lo que aprendimos estaba ahí porque en el pasado funcionaba y ya no era util. 
+Los que hemos estudiado sabemos que mucho de lo que aprendimos fue determinante en nuestra formación, y estamos agradecidos por ello, sin embargo también sabemos que mucho de lo que aprendimos estaba ahí porque en el pasado funcionaba y ya no era útil. 
 Los que nos hemos integrado al campo laboral sabemos que nos faltaba mucho por aprender, hay mucho que nos hubiera gustado aprender antes de llegar a la batalla laboral.  En el trabajo aprenderás mucho que no te puede dar la escuela y estoy de acuerdo, sin embargo este es un problema y donde hay un problema existe oportunidad, oportunidad que estan aprovechando nuevas empresas que ofrecen una manera diferente de educar. 
 
-Un gran problema en la educación actual son los altos costos. En una universidad particular (México) el costo total es de aproximadamente 1 millon de pesos. Aunque la mayoría de estas escuelas ofrece becas, la realidad es que son muy pocas para la gran necesidad acutal. Pero existen los prestamos educativos. Digamos que te otorgan un prestamo educativo del 25% de tu colegiatura. Esto te dejará una deuda de 250mil pesos al terminar. Tal vez si logras un sueldo de 25mil pesos y no tienes gastos acabas esa deuda en 10 meses sin considerar los intereses. Pero seamos realistas la gran mayoría no obtendrá ese sueldo y no se de alguien que no tenga gastos. Lo más probable es que esa deuda sea un lastre por varios años.
+Un gran problema en la educación actual son los altos costos. En una universidad particular (México) el costo total es de aproximadamente 1 millon de pesos. Aunque la mayoría de estas escuelas ofrece becas, la realidad es que son muy pocas para las necesidades actuales. Pero existen los prestamos educativos. Digamos que te otorgan un prestamo educativo del 25% de tu colegiatura. Esto te dejará una deuda de 250mil pesos al terminar. Tal vez si logras un sueldo de 25mil pesos y no tienes gastos acabas esa deuda en 10 meses sin considerar los intereses. Pero seamos realistas la gran mayoría no obtendrá ese sueldo y no se de alguien que no tenga gastos. Lo más probable es que esa deuda sea un lastre por varios años.
 
 
-La distancia es otro factor que contribuye. Si vives en una ciudad o eres clase media tal vez no te parezca un problema pero existen muchas comunidades alejadas de servicios básicos, la educación por su puesto no esta en las prioridades y dentro de esas comunidades quien quiere estudiar tiene que viajar grandes distancias lo que representa mucho tiempo o un gasto fuerte. 
+La distancia es otro factor que contribuye. Si vives en una ciudad tal vez no te parezca un problema pero existen muchas comunidades alejadas de servicios básicos, la educación por su puesto no esta en las prioridades y dentro de esas comunidades quien quiere estudiar tiene que viajar grandes distancias lo que representa mucho tiempo o un gasto fuerte. 
 
-Y el último problema que les comentaré. La capacidad. No existe capacidad para que todos los que deseen estudiar lo hagan. 
+Y el último problema que les comentaré. La capacidad. No existe capacidad para que todos los que desean estudiar lo hagan. 
 
 ![]({{site.baseurl}}/images/fullclassroom.jpg){:class="img-responsive"}
 
@@ -46,13 +46,13 @@ Y el último problema que les comentaré. La capacidad. No existe capacidad para
 
 4.- Se pueden abordar nuevos temas, nuevas tecnologías sin preguntarle a nadie, simplemente estan a disposición de quien quiera tomarlos.
 
-5.- Educación sumamente efectiva, aprendes lo que necesitas para incluirte en la industria. Puedes revisar plataformas como udacity, coursera, udemy, khan academy. Revisa.
+5.- Educación sumamente efectiva, aprendes lo que necesitas para incluirte en la industria. Puedes revisar plataformas como [Udacity](https://www.udacity.com/), [Coursera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), [Khan Academy](https://www.khanacademy.org/). 
 
 6.- Algunas de estas nuevas empresas estan tan segura de la calidad de su educación que en muchos de sus cursos ofrecen una garantía. Por ejemplo: "Consigues empleo en 6 meses o te regresamos tu dinero"
 
 
 He escuchado que las escuelas seguiran ahí, xq los padres quieren que sus hijos se relacionen con otras personas y no les gusta que estén en internet.
-Estoy de acuerdo, sin embargo eso no determina lo que sucederá, el factor determinante será económico. Es decir, habra un sector que quiera la vieja escuela pero no tendrá los ingresos suficientes para pagar. La siguiente opción será educación publica, pero el cupo es limitado, entonces tendremos un gran porcentaje de la población que verá la opción de educación en linea como la más viable.
+Estoy de acuerdo, sin embargo eso no determina lo que sucederá, el factor determinante será económico. Es decir, habrá un sector que quiera la vieja escuela pero no tendrá los ingresos suficientes para pagar. La siguiente opción será educación publica, pero el cupo es limitado, entonces tendremos un gran porcentaje de la población que verá la opción de educación en linea como la más viable.
 
 Somos seres sociales, la interacción social no se terminará, solo evolucionará, se seguirá dando en clubs, grupos de música, arte, comunidades de ayuda, etc. Además la tecnología pronto nos dará realidad virtual al alcance de todos, y creo será tan buena que será muy dificil distinguir la realidad base, de la realidad virtual.
 
