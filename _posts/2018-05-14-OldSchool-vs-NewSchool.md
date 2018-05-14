@@ -46,7 +46,7 @@ Y el último problema que les comentaré. La capacidad. No existe capacidad para
 
 4.- Se pueden abordar nuevos temas, nuevas tecnologías sin preguntarle a nadie, simplemente estan a disposición de quien quiera tomarlos.
 
-5.- Educación sumamente efectiva, aprendes lo que necesitas para incluirte en la industria. Puedes revisar plataformas como [Udacity](https://www.udacity.com/), [Coursera](https://www.coursera.org/), [Udemy](https://www.udemy.com/), [Khan Academy](https://www.khanacademy.org/). 
+5.- Educación sumamente efectiva, aprendes lo que necesitas para incluirte en la industria. Puedes revisar plataformas como <a href="https://www.udacity.com/" target="_blank">Udacity</a>, <a href="https://www.coursera.org/" target="_blank">Coursera</a>, <a href="https://www.udemy.com/" target="_blank">Udemy</a>, <a href="https://www.khanacademy.org/" target="_blank">Khan Academy.</a>
 
 6.- Algunas de estas nuevas empresas estan tan segura de la calidad de su educación que en muchos de sus cursos ofrecen una garantía. Por ejemplo: "Consigues empleo en 6 meses o te regresamos tu dinero"
 
@@ -58,5 +58,5 @@ Somos seres sociales, la interacción social no se terminará, solo evolucionar�
 
 ¿Qué avances crees tendremos en 10 años y como será la educación? ¿Aún crees que las mismas escuelas seguirán en pie?
 
-Sigueme en twitter [@al_andrade](https://www.twitter.com/al_andrade)
+Sigueme en twitter <a href="https://www.twitter.com/al_andrade" target="_blank">@al_andrade</a>
 
