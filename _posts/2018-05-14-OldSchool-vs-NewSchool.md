@@ -1,7 +1,7 @@
 ---
 title: Old School Vs New School
 description: La batalla que ya perdió la vieja escuela, pero aún no lo sabe.
-image: http://al4ndrade.github.io/images/titan.jpg
+image: http://al4ndrade.github.io/images/davidvsgoliath.jpg
 date: 2018-05-14
 ---
 
