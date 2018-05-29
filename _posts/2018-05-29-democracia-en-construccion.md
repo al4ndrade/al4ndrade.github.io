@@ -1,7 +1,7 @@
 ---
 title: Democracia en Construcción
 description: Una visión diferente a los insultos y memes en esta epoca electoral
-image: http://al4ndrade.github.io/images/democracia/fallingfromsky.jpg
+image: http://al4ndrade.github.io/images/democracia/astronauta.jpg
 date: 2018-05-29
 ---
 
