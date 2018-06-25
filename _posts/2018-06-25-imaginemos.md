@@ -1,7 +1,7 @@
 ---
 title: Imaginémonos Cosas Chingonas, ¡Carajo!
 description: ¿Qué efecto tiene el imaginar cosas positivas o negativas en nuestra vida?
-image: http://al4ndrade.github.io/images/imaginemos/imaginemos2.jpg
+image: http://al4ndrade.github.io/images/imaginemos/chicharito.jpg
 date: 2018-06-25
 ---
 
