@@ -70,5 +70,7 @@ La discusión es necesaria pero ¿En dónde está la linea de discusión y una p
 
 En los próximos años el avance tecnológico destruirá más empleos de lo que puedas imaginar, definitivamente se crearán nuevos, pero necesitarás de un círculo amplio, fuerte y diverso para adaptarte. ¡Cuida tus círculos!
 
+{% include sharerInsidePost.html %}
 
+{% include fb-comments.html %}
 

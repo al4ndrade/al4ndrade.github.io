@@ -97,7 +97,9 @@ No caigas en adicciones, supera las que ya tienes si es q las tienes y ¡Disfrut
 
 Lo sé. Antes de publicar cualquier post, algunas personas lo leen y me dan retroalimentación, y se que falta detallar la solución o la prevención, pero eso será tema de otro post. Por lo pronto sigueme en twitter [@al_andrade](https://www.twitter.com/al_andrade) y gracias por compartir.
 
+{% include sharerInsidePost.html %}
 
+{% include fb-comments.html %}
 
 
 

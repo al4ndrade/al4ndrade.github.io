@@ -1,8 +1,8 @@
 ---
-title: Batalla Entre 2 Recompenzas
+title: Batalla Entre Dos Recompenzas
 description: Todos los días libramos pequeñas batallas entre 2 recompenzas una con resultado inmediato y otra a largo plazo. ¿Cuál eliges constantemente? 
 image: http://al4ndrade.github.io/images/recompenzas/cortovslargo.jpg
-date: 2018-08-13
+date: 2018-08-12
 ---
 
 Todos los días libramos en varias ocasiones una batalla entre dos recompenzas. La recompenza inmediata o la recompenza a largo plazo. La primera no es tan atractiva como la de largo plazo, sin embargo es la que tiene la mayor probabilidad de ganar xq tiene el incentivo de recibir la gratificación instantaneamente.
@@ -49,6 +49,8 @@ No es una tarea sencilla, pero los pasos son muy simples. Hay que generar habito
 
 Si quieren leer más de este tema, les recomiendo que lean <a href="https://www.amazon.com.mx/Autocontrol-Kelly-McGonigal-PH-D/dp/8415870922/ref=sr_1_2?ie=UTF8&qid=1534121043&sr=8-2&keywords=the+willpower+instinct" target="_blank">Autocontrol</a> de Kelly McGonigal. 
 
-{% include sharer.html %}
+{% include sharerInsidePost.html %}
 
-<div class="fb-comments" data-href="https://al4ndrade.github.io/2018/08/13/recompenzas.html" data-numposts="5"></div>
+{% include fb-comments.html %}
+
+

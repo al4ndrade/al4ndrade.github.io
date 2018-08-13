@@ -51,7 +51,9 @@ Les recomiendo ese libro, es muy entretenido y muy rebelador, mucho de lo que ap
 
 Cada vez sabemos un poco más del efecto placebo pero hasta ahora seguimos sin conocerlo a fondo pero mientras tanto ¡Imaginemonos cosas chingonas, carajo!
 
+{% include sharerInsidePost.html %}
 
+{% include fb-comments.html %}
 
 
 

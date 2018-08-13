@@ -58,4 +58,7 @@ Somos seres sociales, la interacción social no se terminará, solo evolucionar�
 
 ¿Qué avances crees tendremos en 10 años y como será la educación? ¿Aún crees que las mismas escuelas seguirán en pie?
 
+{% include sharerInsidePost.html %}
+
+{% include fb-comments.html %}
 

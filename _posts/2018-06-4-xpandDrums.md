@@ -13,3 +13,6 @@ Te dejo el video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oq6uMXGg_L4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+{% include sharerInsidePost.html %}
+
+{% include fb-comments.html %}
