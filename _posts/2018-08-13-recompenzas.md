@@ -2,7 +2,7 @@
 title: Batalla Entre Dos Recompenzas
 description: Todos los días libramos pequeñas batallas entre 2 recompenzas una con resultado inmediato y otra a largo plazo. ¿Cuál eliges constantemente? 
 image: http://al4ndrade.github.io/images/recompenzas/cortovslargo.jpg
-date: 2018-08-12
+date: 2018-08-13
 ---
 
 Todos los días libramos en varias ocasiones una batalla entre dos recompenzas. La recompenza inmediata o la recompenza a largo plazo. La primera no es tan atractiva como la de largo plazo, sin embargo es la que tiene la mayor probabilidad de ganar xq tiene el incentivo de recibir la gratificación instantaneamente.
