@@ -2,7 +2,7 @@
 title: ¡Mi Boiler Se Descompuso!
 description: ¿Cómo es que mi boiler descompuesto me ayuda a generar buenos hábitos?
 image: http://al4ndrade.github.io/images/boiler/shivering.jpg
-date: 2018-10-08
+date: 2018-10-09
 ---
 
 Cada que termina un año en vez de deseos me pongo retos para cumplir durante el nuevo año. Algunos de ellos los he continuado y se han convertido en buenos hábitos, como por ejemplo leer un libro al mes y hacer ejercicio por lo menos 3 veces por semana. Este último me costaba mucho trabajo ya que si me atrasaba en algun proyecto o me desvelaba era suficiente para no hacer ejercicio. Así es, los proyectos urgentes desplazan mis metas futuras. 
