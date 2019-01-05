@@ -7,7 +7,7 @@ date: 2019-1-4
 
 Mis Retos del 2019
 
-Los últimos 2 años me he puesto algunos retos muy complicados y no logré cumplirlos en su totalidad, sin embargo me han hicieron crecer, otros no fueron tan dificiles pero fue necesario incrementar mi fuerza de voluntad y disciplina. En particular hay 2 que pienso conservar este y muchos años más, uno de ellos es leer por lo menos 1 libro por mes y el otro es hacer ejercicio 5 veces por semana.
+Los últimos 2 años me he puesto algunos retos muy complicados y no logré cumplirlos en su totalidad, sin embargo me hicieron crecer, otros no fueron tan dificiles pero fue necesario incrementar mi fuerza de voluntad y disciplina. En particular hay 2 que pienso conservar este y muchos años más, uno de ellos es leer por lo menos 1 libro por mes y el otro es hacer ejercicio 5 veces por semana.
 
 ![]({{site.baseurl}}/images/retos2019/kindle.jpg){:class="img-responsive"}
 
