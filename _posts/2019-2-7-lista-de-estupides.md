@@ -11,7 +11,7 @@ Desde hace un par de años he compartido mis retos anuales, comparto mis metas l
 
 
 
-<h3>Mi top 3 de estupideses a lo largo de mi vida:</h3>
+<h3>Mi top 5 de estupideses a lo largo de mi vida:</h3>
 
 1.- Era muy pequeño, tal vez alrededor de 4 o 5 años. En un descuido de mis papás, me robé unos cerillos para aprender como encenderlos, los llevé a mi recamara y en mi cama encendí uno. Afortunadamente mis cobijas eran de lana y no se prendieron rapidamente, hubo tiempo suficiente para que mi mamá se diera cuenta y apagara mi cobija.  
 
