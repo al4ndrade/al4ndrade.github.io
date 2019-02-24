@@ -9,6 +9,15 @@
   <meta property="og:description" content='{{ page.description }}' />
   <meta property="og:image" content='{{ page.image }}' />
   <meta property="fb:app_id" content=' 2211044989122892' />
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:creator" content="@al_andrade" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:title" content='{{ page.title }}' />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:image" content="{{ page.image }}" />
+  <!-- End Twitter Cards -->
   {% seo %}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">

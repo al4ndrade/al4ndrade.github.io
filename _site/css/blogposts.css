@@ -1,9 +1,17 @@
 body {
 	text-align: justify;
+	background-color: rgba(220,223,219, .8);
 
 }
 
 title {
 	text-align: center;
+}
+
+icenter {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 

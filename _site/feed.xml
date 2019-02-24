@@ -1,129 +1,624 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-02-28T10:12:28-06:00</updated><id>http://localhost:4000/</id><title type="html">Mi mente, mis ideas, mi blog.</title><subtitle>El título de este Blog &quot;Mi mente, mis ideas, mi blog&quot; describe mucho lo que podrás encontrar aquí. Te invito a que leas y compartas las publicaciones que encuentres interesantes. Bienvenido a mi Blog. Yo soy Al Andrade. ¡Disfruta!</subtitle><entry><title type="html">Un billón de Dolares</title><link href="http://localhost:4000/2018/02/27/unbillon.html" rel="alternate" type="text/html" title="Un billón de Dolares" /><published>2018-02-27T00:00:00-06:00</published><updated>2018-02-27T00:00:00-06:00</updated><id>http://localhost:4000/2018/02/27/unbillon</id><content type="html" xml:base="http://localhost:4000/2018/02/27/unbillon.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>El título de este Blog &quot;Mi mente, mis ideas, mi blog&quot; describe mucho lo que podrás encontrar aquí. Te invito a que leas y compartas las publicaciones que encuentres interesantes. Bienvenido a mi Blog. Yo soy Al Andrade. ¡Disfruta!</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Mi Lista de Estupidez</title>
+        <description>&lt;p&gt;Desde hace un par de años he compartido mis retos anuales, comparto mis metas logradas, y la manera en que he logrado desarrollarme en los aspectos que más me interesan. Esto ha requerido disciplina, valor, sacrificios, etc. Pero esto solo es un pequeño porcentaje de mi vida, me atrevería a decir que menos del 20% corresponde a los éxitos, alegría, paz emocional, triunfo. Detrás de cada éxito hay muchos fracasos. Detrás de la alegría hubo mucho dolor y a veces lagrimas. Detrás de la paz emocional hubo ansiedad y nuevamente lagrimas. Aún así no cubro el 100% de mi vida ya que falta el aspecto vergonzoso, una gran cantidad de acciones estupidas que hoy quiero compartir. No todas, algunas las seguiré guardando, o al menos no las compartiré en mi blog.&lt;/p&gt;
 
-&lt;p&gt;¿Tenemos conciencia de lo que es un billón de dolares? Yo creo que no.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/stupidList/nervous_emoji.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Primero aclaremos una confusión común, para nuestros vecinos del norte, un billón son mil millones. Para nosotros (México) y gran parte del mundo un billon son un millon de millones. Pero para esta publicación nos quedaremos con mil millones de dolares equivalente a un billón de dolares, para poder hacer una comparación con las listas de billonarios en forbes.&lt;/p&gt;
+&lt;h3&gt;Mi top 5 de estupideces a lo largo de mi vida :&lt;/h3&gt;
 
-&lt;p&gt;La lista al 27 de febrero del 2018 es:&lt;/p&gt;
-&lt;table&gt;
-&lt;tr&gt;
-	&lt;th&gt;No.1&lt;/th&gt;&lt;th&gt;Jeff Bezos (Amazon)&lt;/th&gt;&lt;th&gt;125 billones de dolares&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-	&lt;th&gt;No.2&lt;/th&gt;&lt;th&gt;Bill Gates (Microsoft)&lt;/th&gt;&lt;th&gt;92.1 billones de dolares&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-	&lt;th&gt;No.3&lt;/th&gt;&lt;th&gt;Warren Bufett (Berkshire Hathaway)&lt;/th&gt;&lt;th&gt;89.8 billones de dolares&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-	&lt;th&gt;No.4&lt;/th&gt;&lt;th&gt;Bernard Arnault (louis Vuitton)&lt;/th&gt;&lt;th&gt;75.2 billones de dolares&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-	&lt;th&gt;No.5&lt;/th&gt;&lt;th&gt;Mark Zuckerberg (Facebook)&lt;/th&gt;&lt;th&gt;73.1 billones de dolares&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-	&lt;th&gt;No.6&lt;/th&gt;&lt;th&gt;Carlos Slim (Telmex, America Movil)&lt;/th&gt;&lt;th&gt;70.4 billones de dolares&lt;/th&gt;
-&lt;/tr&gt;	
-&lt;/table&gt;
-&lt;p&gt;Ahora hagamos conciencia de lo que es ¡un billon de dolares!&lt;/p&gt;
+&lt;p&gt;1.- Era muy pequeño, tal vez alrededor de 4 o 5 años. En un descuido de mis papás, me robé unos cerillos para aprender como encenderlos, los llevé a mi recamara y en mi cama encendí uno. Afortunadamente mis cobijas eran de lana y no se prendieron rapidamente, hubo tiempo suficiente para que mi mamá se diera cuenta y apagara mi cobija.&lt;/p&gt;
 
-&lt;p&gt;One billion dollars = 18mil 800 millones de pesos. (Considerando un tipo de cambio de 18.8 pesos por dolar)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/stupidList/cama.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;¿Cuánto tienes que trabajar para ganar “one billion dolars”?&lt;/p&gt;
+&lt;p&gt;2.- Esto sucedió probablemente a mis 19 o 20 años. Salí con unos amigos y amigas y como no teníamos fiesta recorrimos satélite hasta que encontramos una que se veía prometedora y nos colamos. Todo iba bn hasta que una de mis amigas con unos tragos encima se me acerca y me dice señalando a un sujeto “Ese tipo me agarró las pompas”. Mi actitud recuerdo que fue esta:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pagando.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/stupidList/jimcarrey.gif&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;El salario promedio en méxico de los profesionistas es de 11,275 pesos.
-La esperanza de vida en méxico es de 78 años para la mujer y 73 años para los hombres, por lo tanto consideraré 75 años promedio para cualquier individuo (hombre o mujer).&lt;/p&gt;
+&lt;p&gt;Me dirigí hacia el acusado y con un par de zapes lo orillé a pedirle disculpas.&lt;/p&gt;
 
-&lt;p&gt;Tomemos en cuenta un individuo que inicia a trabajar a los 22 años. Si trabajara hasta sus 75 años, esto le daría 53 años de trabajo, y con el sueldo de 11,272 pesos mensuales, obtendría 135 mil 264 pesos al año. Al termino de su vida habría ganado 7 millones 168mil 992 pesos.
-¿Lejos de la meta? Si, muy lejos, pero seamos considerados. Supongamos que este individuo gana 37mil pesos mensuales (salario promedio de la carrera mejor pagada en 2017 segun IMCO).
-Al año obtendría 444mil pesos, lo que equivale a 23 millones 532 mil pesos al termino de su vida, después de trabajar 53 años.&lt;/p&gt;
+&lt;p&gt;Seguí en la fiesta, aún sin la conciencia de que estabamos de colados. Cuando se hizo tarde y decidimos retirarnos, fue muy obvio para todos porque empezamos a tomar nuestras chamarras y las mujeres sus bolsos. Todos en la fiesta se alistaron para seguirnos. Salimos e imediatemente nos dividimos ya que veníamos en dos carros y quedaron separados, esto creó un poco de confusión por lo que no supieron a quien seguir por unos momentos. Gracias a esto llegamos al auto y la golpiza solo la recibió el carro y un par de golpes a un amigo que imprudentemente bajó su ventana. Afortunadamente logró subirla xq estaban intentando quitar el seguro para bajarlo.&lt;/p&gt;
 
-&lt;p&gt;Para lograr la meta de 18mil 800 millones de pesos(One billion dollars), esta persona tendría que vivir 799 vidas o vivir un total de 42 mil 364 años. ¡Wow! ahora si podemos dimensionar lo grande que es ese número.&lt;/p&gt;
+&lt;p&gt;3.- Mezclar dos metodos anticonceptivos. Al parecer no eran compatibles y uno de ellos debilita el latex. Mi chica me dice no te preocupes conté los días y no hay problema, lo cual me relajó, pero al otro día en una conversación casual me explica su manera de contar y resulta que contó mal, muuuy mal. Fue un mes de mucho estrés.&lt;/p&gt;
 
-&lt;p&gt;Sigamos cavando …&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/stupidList/condoms.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;– No quiero entrar en controversia con la exactitud de las fechas siguientes o la veracidad de los hechos.  No pretendo generar discusiones religiosas u ofender la fe de alguien. Recuerden que solo es un ejercicio para dimensionar esta cantidad tan grande. –&lt;/p&gt;
+&lt;p&gt;4.- Detenerme cuando estuve apunto de robar un beso. Ya no me pasa tanto, y supongo que esta bien tener un poco de prudencia.&lt;/p&gt;
 
-&lt;p&gt;Llevamos 2018 años de la era cristiana.  Tomando el año 0 como el nacimiento de Jesús y suponiendo que empieza su labor como carpintero a los 13 años. Obviamente un oficio muy bueno, seguramente en esa epoca saber trabajar la madera era algo que pocos sabían y se pagaba muy bien, y tenemos que añadir que en sus tiempos libres expulsaba demonios, levantaba muertos y multiplicaba la comida, así que consideremos un sueldo de rockstar, …bueno no tan alto xq mucho lo hacía sin cobrar, digamos 50mil pesos mensuales. Al día de hoy su fortuna sería de 1203 millones de pesos. Uff después de más de 2000 años de trabajo,  parece ser que se ha acercado a la cifra que buscamos, pero aún le faltan 17mil 597 millones de pesos para llegar a la meta. Si trabaja otros 29mil 328 años lo logrará.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/stupidList/kiss.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/carpintero.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;5.- Esto sucedió en una fiesta. Estaba una amiga que me gustaba mucho, y por alguna razón no estaba su novio. Tomé un poco de “líquido de la felicidad” y me atreví a robarle un beso, el cual fue muy bien correspondido :D. Un par de días después terminó con su novio.&lt;/p&gt;
 
-&lt;p&gt;¿Qué te parece tu sueldo ahora?&lt;/p&gt;</content><author><name>Al Andrade</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://al4ndrade.github.io/images/onebillion.jpg" /></entry><entry><title type="html">El Tsunami Tecnológico Que Destruirá Muchas Industrias</title><link href="http://localhost:4000/2018/02/19/tsunami-tecnologico.html" rel="alternate" type="text/html" title="El Tsunami Tecnológico Que Destruirá Muchas Industrias" /><published>2018-02-19T00:00:00-06:00</published><updated>2018-02-19T00:00:00-06:00</updated><id>http://localhost:4000/2018/02/19/tsunami-tecnologico</id><content type="html" xml:base="http://localhost:4000/2018/02/19/tsunami-tecnologico.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+&lt;p&gt;Mi estupidez fue no aventarme con todo. La primera vez que salimos contesté unos mensajes en mi celular(Ya no lo hago, aprendí la lección), y después no me esforcé lo suficiente, … si, ¡muy estúpido de mi parte!&lt;/p&gt;
 
-&lt;p&gt;Tenemos la fortuna de vivir una epoca de mucha colaboración tecnológica. El flujo de la información es tan veloz que permite tener avances y cambios en corto tiempo. 
-La gran diferencia de las revoluciones o cambios tecnologicos del pasado, es que hoy el mundo entero se puede enterar con mucha rapidez.&lt;/p&gt;
+&lt;p&gt;La razón de compartir esta area de mi vida es porque me recuerda que tengo muchos defectos, y así cada que tengo ganas de juzgar a otras personas, recuerdo que he cometido muchos errores y lo sigo haciendo, de esta manera me vuelvo más empático y redirigo la crítica hacia la única persona que puedo cambiar, a mi.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/tsunami.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Comenta(seguro tienes muchas historias también) y nos vemos pronto.&lt;/p&gt;
 
-&lt;p&gt;Haciendo una analogía, lo que veo es que se aproxima un tsunami de una proporcion nunca antes vista. El mundo cambiará radicalmente y es momento de hacer algo. No para evitarlo, sino para colocarnos en terreno alto, o movernos a zonas seguras. ¿Si supieras que viene un tsunami?, ¿Te quedarías en la playa? ¿Te moverías a una zona más segura? y ¿si tuvieras aun más tiempo? ¿Te prepararías con equipo, comida, etc?&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
 
-&lt;p&gt;Hace aproximadamente 3000 años empezamos a usar las matemáticas y la ciencia como una herramienta en nuestro beneficio. Este descubrimiento nos a puesto en donde estamos hoy, nos hemos colocado como la especie dominante de nuestro querido hogar llamado tierra.
-Gracias a la ciencia, tuvimos la revolución industrial hace aproximadamente 200 años, pero no nos detuvimos ahí, también logramos automatizar procesos y digitalizar el mundo entero hace aproximadamente 15 años. Y hoy la automatización de decisiones, inteligencia artificial, seres aumentados, y más, se esparcen rápidamente, colocando a las empresas del pasado en peligro. Esto se da incluso en la naturaleza, la selección natural es una batalla que se libra todos los días y las industrias también tienen que entrar en esta batalla. Quieran o no, están en un Darwinismo tecnológico.&lt;/p&gt;
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2019/02/07/lista-de-estupides.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Hay muchas industrias que a mi pensar desaparecerán muy pronto. No hablaré de todas hoy, pero me gustaría iniciar con el periódico en papel.&lt;/p&gt;
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2019/02/07/lista-de-estupides.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/newspaper.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Feb 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//2019/02/07/lista-de-estupides.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/02/07/lista-de-estupides.html</guid>
+      </item>
+    
+      <item>
+        <title>Mis Retos del 2019</title>
+        <description>&lt;p&gt;Mis Retos del 2019&lt;/p&gt;
 
-&lt;p&gt;Tal vez es muy obvio que desaparecerán, pero la razon por la que decidí exponer mi punto en mi blog es porque en algunas pláticas casuales me encontré con mucha gente que no puede creer que el periódico en papel pueda desaparecer. Otra de las industrias son las escuelas, pero para eso necesito argumentar y sustentar firmemente, así que las escuelas las dejaré para otra publicación.&lt;/p&gt;
+&lt;p&gt;Los últimos 2 años me he puesto algunos retos muy complicados y no logré cumplirlos en su totalidad, sin embargo me hicieron crecer, otros no fueron tan dificiles pero fue necesario incrementar mi fuerza de voluntad y disciplina. En particular hay 2 que pienso conservar este y muchos años más, uno de ellos es leer por lo menos 1 libro por mes y el otro es hacer ejercicio 5 veces por semana.&lt;/p&gt;
 
-&lt;p&gt;Creo que al periódico(en papel) le queda de vida entre 2 y 5 años (en México). No hice ningún cálculo es una combinación del azar y algunos puntos que observo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/retos2019/kindle.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;1er punto. Para que siga existiendo tienen que existir clientes, y seamos realistas, no conozco ningun milenial que compre periódico, ni siquiera de la generación X. Los que compran periódicos son baby boomers y generaciones anteriores. Y seguramente algunos baby boomers ya no lo hacen. Así que tienen en contra el tiempo. Como humanos morimos y su clientela no se esta renovando.&lt;/p&gt;
+&lt;p&gt;En el 2011 compré mi primer Kindle (Es un dispositivo para leer libros) y mi hábito de lectura mejoró considerablemente pero fue hasta el 2016 que me puse de reto leer 1 libro por mes y mi fascinación por los libros creció exponencialmente, tanto que ahora tengo una lista de libros por leer y no hay tiempo para tantos. Les comparto los que ya tengo apartados para este año.&lt;/p&gt;
 
-&lt;p&gt;2o punto. Una parte de sus ingresos son por anuncios. Para que alguien decida poner anuncios en un periodico se tienen que cumplir 3 cosas: 
-&lt;br /&gt;	- Que le llegue a su público objetivo; 
-&lt;br /&gt;	- Que tenga resultados; 
-&lt;br /&gt;	- Que sea economicamente viable.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Sapiens - Yuval Noah&lt;/li&gt;
+	&lt;li&gt;Homo Deus - Yuval Noah&lt;/li&gt;
+	&lt;li&gt;21 Lessons For The 21st Century - Yuval Noah&lt;/li&gt;
+	&lt;li&gt;Mastering Bitcoin - Andreas M Antonopoulos&lt;/li&gt;
+	&lt;li&gt;Mastering Ethereum - Andreas M Antonopoulos&lt;/li&gt;
+	&lt;li&gt;Internet of Money II - Andreas M Antonopoulos&lt;/li&gt;
+	&lt;li&gt;Virus Of The Mind - Richard Brodie&lt;/li&gt;
+	&lt;li&gt;Astrophysics For People In A Hurry - Neil Degrass&lt;/li&gt;
+	&lt;li&gt;Capitalism Without Capital - Jonathan Haske, Stian Westlake&lt;/li&gt;
+	&lt;li&gt;The Order Of Time - Carlo Rovelli&lt;/li&gt;
+	&lt;li&gt;The Everything Store - Brad Stone&lt;/li&gt;
+	&lt;li&gt;Why We Sleep - Matthew Walker&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cada día es más dificil cumplir estos puntos. Google, Facebook y Amazon, tienen algoritmos con inteligencia artificial y logran cumplir con estas caracteristicas a un precio más bajo y además puedes medir tus resultados, es decir tienes una base de datos. Las bases de datos son muy valiosas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/retos2019/guitarsolo.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;3er punto. De 123.5 millones de habitantes en México, 81 millones de personas tienen acceso a un teléfono celular, y el 74.8 porciento de ellos cuenta con un smartphone. Esto es aproximadamente 60.5 millones de personas. Bajo la premisa de que los que tenemos smartphone preferimos estar enterados por portales, o redes sociales, que el periódico, entonces solo quedan 63 millones de personas a quienes venderles periódico. Pero tenemos que quitar la población de entre 0 y 15 años(27.4%), que asumo, no leen noticias. Nos quedan 45.73 millones. Ahora quitamos los que no saben leer ni escribir (5.5% arriba de 15 años) y nos quedan solo 43.21 millones de clientes potenciales, es decir el 34.9% de la población.&lt;/p&gt;
+&lt;p&gt;Lo nuevo:&lt;/p&gt;
 
-&lt;p&gt;En conclusión. La penetración de internet y smartphones está en incremento y no tardará para que no sea rentable seguir en un negocio que abarca muy poco porcentaje de la población.  Mi suposición es que el periódico en papel dejará de existir, pero dejemos que el tiempo nos diga acertadamente. ¿Qué opinas?&lt;/p&gt;</content><author><name>Al Andrade</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://al4ndrade.github.io/images/tsunami.jpg" /></entry><entry><title type="html">La importancia de tener buenos hábitos</title><link href="http://localhost:4000/2018/02/12/habitos.html" rel="alternate" type="text/html" title="La importancia de tener buenos hábitos" /><published>2018-02-12T00:00:00-06:00</published><updated>2018-02-12T00:00:00-06:00</updated><id>http://localhost:4000/2018/02/12/habitos</id><content type="html" xml:base="http://localhost:4000/2018/02/12/habitos.html">&lt;p&gt;Los hábitos son muy importantes&lt;/p&gt;</content><author><name>Al Andrade</name></author><summary type="html">Los hábitos son muy importantes</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://al4ndrade.github.io/images/phelps-mariposa.jpg" /></entry><entry><title type="html">El Fin del Periodico</title><link href="http://localhost:4000/2018/02/12/newspapers-dead.html" rel="alternate" type="text/html" title="El Fin del Periodico" /><published>2018-02-12T00:00:00-06:00</published><updated>2018-02-12T00:00:00-06:00</updated><id>http://localhost:4000/2018/02/12/newspapers-dead</id><content type="html" xml:base="http://localhost:4000/2018/02/12/newspapers-dead.html">&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+&lt;ul&gt;
 
-&lt;p&gt;Tenemos la fortuna de vivir una epoca de mucha colaboración tecnológica. El flujo de la información es tan veloz que permite tener avances y cambios en corto tiempo. 
-La gran diferencia de las revoluciones o cambios tecnologicos del pasado, es que hoy el mundo entero se puede enterar con mucha rapidez.&lt;/p&gt;
+&lt;li&gt;Retomaré ejercicios de técnica para guitarra.&lt;/li&gt;
+&lt;li&gt;Aprenderé JavaScript Promises y JavaScript Design Patterns, xq al parecer necesito dominar estas areas para poder desarrollar en Blockchain, lo cual es otro reto.&lt;/li&gt;
+&lt;li&gt;Aprender a programar en Blockchain&lt;/li&gt;
+&lt;li&gt;Seguiré haciendo videos para mis dos canales.&lt;/li&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/tsunami.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt; 
+	&lt;li&gt;
+		&lt;a href=&quot;https://www.youtube.com/watch?v=oq6uMXGg_L4&amp;amp;t=2s&quot; target=&quot;_blank&quot;&gt;A Music World&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li&gt;	
+		&lt;a href=&quot;https://www.youtube.com/watch?v=KJaI70H4iDg&amp;amp;t=63s&quot; target=&quot;_blank&quot;&gt;Mi canal personal (Hablo de tecnología y tutoriales de python)&lt;/a&gt;
+	&lt;/li&gt;	
+&lt;/ul&gt;
+&lt;li&gt;Continuaré escribiendo en mi blog&lt;/li&gt;
 
-&lt;p&gt;Haciendo una analogía, lo que veo es que se aproxima un tsunami de una proporcion nunca antes vista. El mundo cambiará radicalmente y es momento de hacer algo. No para evitarlo, sino para colocarnos en terreno alto, o movernos a zonas seguras. ¿Si supieras que viene un tsunami?, ¿Te quedarías en la playa? ¿Te moverías a una zona más segura? y ¿si tuvieras aun más tiempo? ¿Te prepararías con equipo, comida, etc?&lt;/p&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Hace aproximadamente 3000 años empezamos a usar las matemáticas y la ciencia como una herramienta en nuestro beneficio. Este descubrimiento nos a puesto en donde estamos hoy, nos hemos colocado como la especie dominante de nuestro querido hogar llamado tierra.
-Gracias a la ciencia, tuvimos la revolución industrial hace aproximadamente 200 años, pero no nos detuvimos ahí, también logramos automatizar procesos y digitalizar el mundo entero hace aproximadamente 15 años. Y hoy la automatización de decisiones, inteligencia artificial, seres aumentados, y más, se esparcen rápidamente, colocando a las empresas del pasado en peligro. Esto se da incluso en la naturaleza, la selección natural es una batalla que se libra todos los días y las industrias también tienen que entrar en esta batalla. Quieran o no, están en un Darwinismo tecnológico.&lt;/p&gt;
+&lt;p&gt;¡Éxito para todos este 2019, nos vemos en el camino!&lt;/p&gt;
 
-&lt;p&gt;Hay muchas industrias que a mi pensar desaparecerán muy pronto. No hablaré de todas hoy, pero me gustaría iniciar con el periódico en papel.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/retos2019/goingup.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/newspaper.png&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
 
-&lt;p&gt;Tal vez es muy obvio que desaparecerán, pero la razon por la que decidí exponer mi punto en mi blog es porque en algunas pláticas casuales me encontré con mucha gente que no puede creer que el periódico en papel pueda desaparecer. Otra de las industrias son las escuelas, pero para eso necesito argumentar y sustentar firmemente, así que las escuelas las dejaré para otra publicación.&lt;/p&gt;
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2019/01/04/mis-retos.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Creo que al periódico(en papel) le queda de vida entre 2 y 5 años (en México). No hice ningún cálculo es una combinación del azar y algunos puntos que observo.&lt;/p&gt;
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2019/01/04/mis-retos.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
 
-&lt;p&gt;1er punto. Para que siga existiendo tienen que existir clientes, y seamos realistas, no conozco ningun milenial que compre periódico, ni siquiera de la generación X. Los que compran periódicos son baby boomers y generaciones anteriores. Y seguramente algunos baby boomers ya no lo hacen. Así que tienen en contra el tiempo. Como humanos morimos y su clientela no se esta renovando.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Jan 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//2019/01/04/mis-retos.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/01/04/mis-retos.html</guid>
+      </item>
+    
+      <item>
+        <title>¿Qué pasó en el 2018?</title>
+        <description>&lt;p&gt;¿Qué pasó en el 2018?&lt;/p&gt;
 
-&lt;p&gt;2o punto. Una parte de sus ingresos son por anuncios. Para que alguien decida poner anuncios en un periodico se tienen que cumplir 3 cosas: 
-&lt;br /&gt;	- Que le llegue a su público objetivo; 
-&lt;br /&gt;	- Que tenga resultados; 
-&lt;br /&gt;	- Que sea economicamente viable.&lt;/p&gt;
+&lt;p&gt;Les contaré una historia de un lugar en la calle de… no recuerdo bn, pero lo importante es que este lugar tenía un guardia en la entrada, una especie de cadenero de antro, pero no era cadenero y no había cadena, digamos que era quien tenía el poder de abrir la puerta.&lt;/p&gt;
 
-&lt;p&gt;Cada día es más dificil cumplir estos puntos. Google, Facebook y Amazon, tienen algoritmos con inteligencia artificial y logran cumplir con estas caracteristicas a un precio más bajo y además puedes medir tus resultados, es decir tienes una base de datos. Las bases de datos son muy valiosas.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2018/guard.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;3er punto. De 123.5 millones de habitantes en México, 81 millones de personas tienen acceso a un teléfono celular, y el 74.8 porciento de ellos cuenta con un smartphone. Esto es aproximadamente 60.5 millones de personas. Bajo la premisa de que los que tenemos smartphone preferimos estar enterados por portales, o redes sociales, que el periódico, entonces solo quedan 63 millones de personas a quienes venderles periódico. Pero tenemos que quitar la población de entre 0 y 15 años(27.4%), que asumo, no leen noticias. Nos quedan 45.73 millones. Ahora quitamos los que no saben leer ni escribir (5.5% arriba de 15 años) y nos quedan solo 43.21 millones de clientes potenciales, es decir el 34.9% de la población.&lt;/p&gt;
+&lt;p&gt;Fui a este lugar y solo me quedé junto al guardia a observar. Llegaron algunas personas, y esto fue lo que escuché.&lt;/p&gt;
 
-&lt;p&gt;En conclusión. La penetración de internet y smartphones está en incremento y no tardará para que no sea rentable seguir en un negocio que abarca muy poco porcentaje de la población.  Mi suposición es que el periódico en papel dejará de existir, pero dejemos que el tiempo nos diga acertadamente. ¿Qué opinas?&lt;/p&gt;</content><author><name>Al Andrade</name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://al4ndrade.github.io/images/tsunami.jpg" /></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2018/01/28/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-01-28T10:05:09-06:00</published><updated>2018-01-28T10:05:09-06:00</updated><id>http://localhost:4000/jekyll/update/2018/01/28/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2018/01/28/welcome-to-jekyll.html">&lt;p&gt;Yeah&lt;/p&gt;
+&lt;p&gt;— ¡Hey! es cierto que aquí es el lugar donde puedo dar mi tiempo para ayudar a los menos protegidos.&lt;/p&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;— Si, aquí es bienvenido.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;— Hola, es cierto que aquí es donde me pueden ayudar si tengo algunos problemas.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;— Si, aquí es, bienvenido.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;— ¡Hola! Me dijeron que aquí puedo conseguir drogas, sexo, y tener fiestas continuamente.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>Al Andrade</name></author><summary type="html">Yeah</summary></entry></feed>
+&lt;p&gt;— Te dijeron bien, bienvenido.&lt;/p&gt;
+
+&lt;p&gt;— No se si estoy en el lugar indicado pero me dijeron que aquí es donde los que manejan el lugar se roban el dinero de los que entran y nunca toman su opinión en cuenta.&lt;/p&gt;
+
+&lt;p&gt;— Estas en el lugar indicado, bienvenido.&lt;/p&gt;
+
+&lt;p&gt;— Hola q tal, escuche que este es un lugar muy especial, que aquí forman lideres honestos y los que manejan el lugar son personas muy rectas y honradas.&lt;/p&gt;
+
+&lt;p&gt;— Si, aquí es, bienvenido.&lt;/p&gt;
+
+&lt;p&gt;— Es cierto que este es el lugar donde me puedo volver alcohólico.&lt;/p&gt;
+
+&lt;p&gt;— Si, aquí es, pasa, bienvenido.&lt;/p&gt;
+
+&lt;p&gt;— Hola, tengo un problema con mi manera de beber, me dijeron que aquí me pueden ayudar.&lt;/p&gt;
+
+&lt;p&gt;— Bienvenido, llegaste al lugar indicado. Pasa.&lt;/p&gt;
+
+&lt;p&gt;— Escuché que aquí se pelean mucho, se critícan y hasta se mandan memes para burlarse.&lt;/p&gt;
+
+&lt;p&gt;— Jajaja, si aquí es, pasa.&lt;/p&gt;
+
+&lt;p&gt;— Hola, estoy buscando un lugar donde la gente se respeta, se quiere mucho y se apoyan.&lt;/p&gt;
+
+&lt;p&gt;— No busques más, es aquí, bienvenido.&lt;/p&gt;
+
+&lt;p&gt;Después de escuchar un tiempo. Le dije al guardia, ¿Xq les mientes?&lt;/p&gt;
+
+&lt;p&gt;El me dijo, no estoy mintiendo. En este lugar puedes encontrar todo eso.&lt;/p&gt;
+
+&lt;p&gt;Pasa, tu también eres bienvenido.&lt;/p&gt;
+
+&lt;p&gt;¿Cómo puede suceder todo al mismo tiempo?
+¿Tal vez fenómenos quánticos? Creo q es más simple. Hay espacio para todo, diferentes historias y puntos de vista, así es el mundo donde vivimos. Pero este blog solo es de mi punto de vista así que les cuento lo que viví en el 2018.&lt;/p&gt;
+
+&lt;p&gt;Ví como creció la comunidad donde trabajo School of Rock Lomas Verdes. Crecimos en liderazgo, efectividad, amor a lo que hacemos y los lazos de amistad se fortalecieron.&lt;/p&gt;
+
+&lt;p&gt;Conocí nuevas personas y me siento realmente afortunado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/staff.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pude ver gente transformarse, crecer en y a través de la música, con resultados en su vida.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/rock101_2.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/perfplus.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Viví el derrumbe del 4o poder(los medios tradicionales de comunicación). 
+Hace algunos años era impensable que ese poder pudiera caer en las manos de todos. 
+Hoy todos somos prensa, todos podemos opinar, la tecnología no hace diferencia, es completamente neutral. Es un gran avance que celebro. Obviamente tiene sus desventajas. Una de ellas es la polarización en determinados temas. Antes todos podíamos estar unidos, y las críticas o los discursos de odio se enfocaban en los medios de comunicación. La tecnología removió al intermediario, ahora los insultos son entre personas. Tendremos que aprender a vivir con este nuevo poder, pero aún así es un gran avance.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2018/smartphone.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tuve la fortuna de tomar algunos cursos de inteligencia artificial, iniciarme en Data Science y cambiar mi forma de pensar por los datos y no por influencia de mis círculos sociales.&lt;/p&gt;
+
+&lt;p&gt;Uno de mis retos de este año fue hacer un canal de youtube y hacer 20 videos, jajaja creo q me excedí, solo logré 13 videos.&lt;/p&gt;
+
+&lt;p&gt;En mi canal de música, uno de los últimos videos fue una lección de improvisación en modo Dórico. Aquí el link.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FKZRhRMRc0E&amp;amp;t=2s&quot;&gt;Lección de Improvisación&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;En mi canal de tecnología el último que realizé fue un generador de archivos MIDI utilizando python.. Aquí el link.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mye6yExH73Q&quot;&gt;Generador de Archivos MIDI&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;También hice mi blog, de hecho este es mi 10mo post.&lt;/p&gt;
+
+&lt;p&gt;Por último les comparto mis libros favoritos de este año.&lt;/p&gt;
+
+&lt;p&gt;1.- The Power of Habit. Si quieres hacer cambios en tu vida este libro te dará la información e inspiración necesaria&lt;/p&gt;
+
+&lt;p&gt;2.- Factfulness. Una dosis de realidad para evitar el exceso de drama en nuestra vida.&lt;/p&gt;
+
+&lt;p&gt;3.- The Internet of Money. No esperes a que la tecnología transforme la industria del dinero para hacer cambios en tu manera de almacenar y transaccionar dinero.&lt;/p&gt;
+
+&lt;p&gt;4.- Trust Factor. La confianza es la base de las relaciones sociales y laborales. Es un libro para todos y de mucha utilidad para aquellos con puestos que requieren liderazgo.&lt;/p&gt;
+
+&lt;p&gt;5.- The Book of Satoshi. Las conversaciones que iniciaron en Cryptography Mailing list y continuaron en bitcointalk.org acerca de la creación del sistema p2p “Bitcoin”&lt;/p&gt;
+
+&lt;p&gt;Espero que haya sido un gran año para todos.&lt;/p&gt;
+
+&lt;p&gt;Nos vemos en el 2019&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/12/31/my-year.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/12/31/my-year.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 31 Dec 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//2018/12/31/my-year.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/12/31/my-year.html</guid>
+      </item>
+    
+      <item>
+        <title>Carta A Mi Futuro Yo</title>
+        <description>&lt;p&gt;Al del futuro,&lt;/p&gt;
+
+&lt;p&gt;Estoy viviendo a finales del 2018. Es una epoca muy interesante. Los avances tecnológicos, como inteligencia artificial, energías alternas, blockchain, etc. están cambiando al mundo o ya lo hicieron, tal vez solo nos resistimos a aceptarlo. Todo sucede muy rápido por lo que es difícil seguír el paso. Pero esta no es una carta para decirte que no es facil, ni justificar mis errores, es una carta para decirte que me he caido muchas veces y en ocasiones no me quiero levantar, pero lo seguiré haciendo. Esta es una carta para hacer un compromiso contigo, yo me ocuparé de lo que me corresponde y no te pasaré mis responsabilidades presentes como constantemente lo hacía.&lt;/p&gt;
+
+&lt;p&gt;Tengo muchos recuerdos de cuando te dejaba lo difícil.&lt;/p&gt;
+
+&lt;p&gt;Recuerdo cuando Al del pasado se endeudó pensando que yo lo resolvería. ¡¡¡WTF!!! ¡Si, lo estoy resolviendo pero mejor no se hubiera endeudado!&lt;/p&gt;
+
+&lt;p&gt;También recuerdo a Al de la noche anterior que deja con pocas horas de sueño a Al del día siguiente. El plan está hecho, dormir antes de media noche y dejar la computadora y electrónicos una hora antes, pero es más sencillo darle la responsabilidad al siguiente, seguramente él si lo hará.&lt;/p&gt;
+
+&lt;p&gt;Hay una lista interminable pero no hay porque escribirla, tu lo sabes, yo lo sé, …olvidémoslo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carta/neuralizer.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En ocasiones voy a necesitar que te asomes al pasado(mi presente) y me des la orden de continuar. Tal como has hecho cada mañana para obligarme a ir al gimnasio. Creo que podrías hacerlo ahora con mi alimentación que no va mal pero en las noches regresando de trabajar he agotado mi fuerza de voluntad. También podrías hacerlo para ayudarme a dejar algunas obligaciones y dejar algún espacio para componer, tocar o divertirme. Al final es tu vida, elige.&lt;/p&gt;
+
+&lt;p&gt;No paso mucho tiempo en redes sociales, pero últimamente he incrementado mi tiempo en facebook, …hay quienes comparten unos memes muy buenos. ¿Qué tal este?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carta/meme1.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mira este, está buenísimo.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carta/corrector.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Es momento de bajar la dosis de memes y seguramente no se convertirá en un problema q tengas que resolver.&lt;/p&gt;
+
+&lt;p&gt;…Un último meme. Tal vez no debería reir de este xq es un crítica a nosotros los hombres, pero me dió risa. jajaja.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/carta/memehelado.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esta carta seguro te ha generado paz y tranquilidad, pero siempre hay un pero…&lt;/p&gt;
+
+&lt;p&gt;Esta terminando el año y como los años anteriores estableceré nuevos retos, seguiré dirigiendome hacia las metas de largo plazo y déjame decirte que no será fácil, así que prepárate, ¡el 2019 será salvaje!&lt;/p&gt;
+
+&lt;p&gt;Con mucho cariño&lt;/p&gt;
+
+&lt;p&gt;Al del presente&lt;/p&gt;
+
+&lt;p&gt;P.D. Te deje un fondo para emergencias. No te lo gastes ¡Es para emergencias cabrón!&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/11/19/carta.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/11/19/carta.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 19 Nov 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000//2018/11/19/carta.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/11/19/carta.html</guid>
+      </item>
+    
+      <item>
+        <title>¡Mi Boiler Se Descompuso!</title>
+        <description>&lt;p&gt;Cada que termina un año en vez de deseos me pongo retos para cumplir durante el nuevo año. Algunos de ellos los he continuado y se han convertido en buenos hábitos, como por ejemplo leer un libro al mes y hacer ejercicio por lo menos 3 veces por semana. Este último me costaba mucho trabajo ya que si me atrasaba en algun proyecto o me desvelaba era suficiente para no hacer ejercicio. Así es, los proyectos urgentes desplazan mis metas futuras.&lt;/p&gt;
+
+&lt;p&gt;Supongo que a muchos nos llega un momento en la vida en que nos damos cuenta que 24 horas no son suficientes. Entonces nos organizamos mejor y vamos recortando el tiempo a actividades que consideramos no tan importantes y después de un tiempo, nos damos cuenta que tenemos que recortar algo más, … y recortamos las horas de sueño (¡NOOOOO!). En la adolescencia eso no importaba, pero dormir es MUY valioso, créanme.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boiler/sleeping_dog.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Después de recortar las horas de sueño tenemos que encontrar la cantidad exacta de horas que nos garanticen más tiempo de actividad con un descanso adecuado, ya que no serviría de mucho dormir poco y tener un rendimiento inferior durante todo el día.&lt;/p&gt;
+
+&lt;p&gt;Actualmente duermo entre 5hrs 40mins y 6hrs 20mins. 5 hrs no me funciona, pero 6 hrs me funciona muy bien, tal vez un punto alrededor de 6hrs 10mins. Sin embargo la batalla entre quedarme unos minutos más y levantarme, es muy grande, muchas veces no lo lograba, lo que estaba generando un hábito. Hasta que un viernes en verano, sucedió lo inesperado. No había agua caliente. Mi boiler se descompuso, por lo que me bañé con agua fría, el sábado nuevamente agua fría ya que lo irían a reparar hasta la siguiente semana. El domingo ya no lo toleraba. En ese momento recordé que el lunes no podrían arreglarlo xq yo estaría impartiendo un curso de verando desde las 10am y regresaría a mi casa hasta las 8pm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boiler/fear.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Busqué en internet gimnasios y encontré uno que me queda muy cerca y tiene regaderas, así que si quería evitar el dolor de bañarme con agua fría tendría que pararme muy temprano para bañarme en el gimnasio, obviamente ya estando en el gimnasio hago una rutina de aproximadamente 1hr 20mins. Porsupuesto que todos aprovecharíamos el gimnasio si ya estamos ahí ¿Cierto?&lt;/p&gt;
+
+&lt;p&gt;Cuando terminó el curso de verano 2 semanas después ya había generado un buen hábito el cual he decidido no romper. Claro ya repararon el boiler, pero no lo enciendo para evitar la tentación de dormir unos minutos más.&lt;/p&gt;
+
+&lt;p&gt;Puede parecer excesivo pero tengo un compromiso con mi futuro yo. Tenemos muchas metas que cumplir y solo con buenos hábitos llegaremos. Se que valdrá la pena.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/boiler/victory.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Por cierto, les recomiendo &lt;a href=&quot;https://www.amazon.com.mx/Power-Habit-What-Life-Business/dp/081298160X/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1539105294&amp;amp;sr=1-1&amp;amp;keywords=the+power+of+habit&quot; target=&quot;_blank&quot;&gt;The Power of Habit,&lt;/a&gt; un libro que habla de la parte científica de los hábitos. Por alguna razón en español estará a la venta hasta el 2019 en Amazon, tal vez está agotado. Aquí el link: &lt;a href=&quot;https://www.amazon.com.mx/Poder-habitos-hacemos-vida-empresa/dp/6079344637/ref=sr_1_10?s=books&amp;amp;ie=UTF8&amp;amp;qid=1539105395&amp;amp;sr=1-10&amp;amp;keywords=the+power+of+habit&quot; target=&quot;_blank&quot;&gt;El Poder De Los Hábitos&lt;/a&gt;&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/10/09/boiler-roto.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/10/09/boiler-roto.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 09 Oct 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2018/10/09/boiler-roto.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/10/09/boiler-roto.html</guid>
+      </item>
+    
+      <item>
+        <title>Batalla Entre Dos Recompenzas</title>
+        <description>&lt;p&gt;Todos los días libramos en varias ocasiones una batalla entre dos recompenzas. La recompenza inmediata o la recompenza a largo plazo. La primera no es tan atractiva como la de largo plazo, sin embargo es la que tiene la mayor probabilidad de ganar xq tiene el incentivo de recibir la gratificación instantaneamente.&lt;/p&gt;
+
+&lt;p&gt;Si logramos identificar estas pequeñas batallas tendremos mayor posibilidad de optar por el beneficio mayor. Con unos ejemplos quedará más claro.&lt;/p&gt;
+
+&lt;p&gt;Estas en la fiesta de fin de año, haces tus propósitos y estás determinado a hacer ejercicio. Sabes que será dificil ya que tendrás que levantarte a las 5:30 para llegar al gimnasio a las 6am, hacer ejercicio bañarte, tal vez desayunar y llegar a tu trabajo a las 9AM. Pero no te importa, sabes que el esfuerzo lo vale, dentro de unos meses bajarás la panza,  te verás más atlético y segúramente en 1 año tendrás el abdomen muy bien marcado, en otras palabras serás muy atractiv@&lt;/p&gt;
+
+&lt;p&gt;Suenan las campanadas, !Feliz año nuevo!, pasan todos a la mesa para iniciar esta nueva etapa, …sin embargo inicias con el pecado de la gula. No importa, iniciarás el gimnasio el 2 de enero, después de todo estarás desvelado.&lt;/p&gt;
+
+&lt;p&gt;2 de enero. Suena tu despertador a las 5:30AM, e inicia la primera batalla. 
+&lt;br /&gt;Recompenza No. 1.(inmediata). Dormir un ratito más.
+&lt;br /&gt;Recompenza No. 2(largo plazo). Cuerpo Atlético, ser un persona muy atractiva.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/recompenzas/wakeup.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Decides posponer la alarma 10 minutos. 1a batalla perdida.
+10 minutos después vuelve a sonar. Creo q no es necesario decir que sucede en esta segunda batalla, tú sabes cuantas veces eliges la gratificación instantanea.&lt;/p&gt;
+
+&lt;p&gt;Otro caso común. Has decidido alimentarte mejor, dejar el pan dulce, comer más verduras, etc.
+1er día, tu comida es tan balanceada que hasta ensalada tiene. Cambiaste tu refresco por agua sola. Tu forma de caminar es diferente te sientes seguro, crees que tu cuerpo ya refleja los beneficios – Es tu primer día comiendo así, obvio nadie lo nota solo tu imaginación. Ese día tienes que salir tarde del trabajo, regresas a casa con mucho estrés y en la mesa hay una dona de chocolate. Déjame decirte que si tuviste un día de mucho trabajo y estas agotado mentalmente vas a perder, de hecho pruebalo, ve a la tienda en la noche después de un día de mucho estrés y ve lo que compras.&lt;/p&gt;
+
+&lt;p&gt;Un último caso. Hablemos de un alcohólico. Seguramente has escuchado que el alcoholismo es una enfermedad, pero no creo q todos lo comprendan como tal. He escuchado incontables discusiones donde juzgan al individuo con comentarios como: “No entiende, ya le expliqué que se esta haciendo daño”, “Pues quiere seguir viviendo así”, “El pendejo ya se volvió a quedar sin trabajo y no entiende”, “Es un mentiroso, prometió que ya no iba a tomar”. La realidad es que si lo entiende, si quiere dejar de beber, quiere conservar su trabajo, pero no puede, cuando se enfrenta a la batalla, la gratificación instantanea gana. 
+&lt;br /&gt;Recompenza No. 1. Sensación de bienestar al beber.
+&lt;br /&gt;Recompenza No. 2. Sobriedad y los beneficios que esto conlleva.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/recompenzas/alcoholic.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Si hemos logrado entender que todos hemos perdido en muchas ocasiones esta pelea, entonces será más fácil comprender al alcohólico. Primero debemos considerar que él ha desarrollado una compulsión por beber muy dificil de arrancar, en otras palabras ha perdido su fuerza de voluntad. Segundo, hay una explicación científica que podemos usar en nuestro beneficio, no solo para las adicciones, para nuestras metas, como el caso de la alimentación, el gimnasio, proyectos, etc.&lt;/p&gt;
+
+&lt;p&gt;Imagina q vivieras muchas generaciones atrás. Tu prioridad sería encontrar alimento, reproducirte y evitar ser el alimento de otras especies. Reproducirte y evitar ser alimento lo solucionamos al ser sociables, formamos comunidades y como grupo nos protegimos de ataques tanto de animales como de otros grupos, y de esta manera ideamos mejores maneras de encontrar alimentos, pero esto nos generó otra actividad prioritaria: “No enojar a nuestra comunidad”. Por ejemplo: No acostarnos con la pareja de alguien más, compartir la comida, no cagar en cualquier lugar –Suena obvio pero no lo era, incluso en esa actividad cotidiana hay una batalla de recompenzas que hoy quiero suponer que está superada por todos, pero imaginemos esa epoca. Comiste mucho y necesitas evacuar lo que el cuerpo ya no necesita:
+Acción 1 con recompenza 1. Evacuar al instante y obtener la satisfacción que todos conocemos al desechar lo que el cuerpo no necesita y no tener dolores estomacales
+Acción 2 con recompenza 2.- Aguantar e ir a un lugar lejano donde los olores no molesten a nadie, y conservar la reputación y amistad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/recompenzas/wolfvshuman.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Muy probablemente la recompenza inmediata ganó muchas veces hasta que a través del aprendizaje se desarrolló un autocontrol específico para esa actividad. El resultado después de muchas generaciones es el desarrollo de la corteza prefrontal, encargada de ayudarte a realizar la actividad difícil cuando es más fácil seguir en la cama.&lt;/p&gt;
+
+&lt;p&gt;Tenemos 2 mentes independientes que en ocaciones no estan de acuerdo y una tiene que tomar el control.  Una de ellas es impulsiva y la necesitamos. Imagina que estas en un restaurante, repentinamente escuchas gritos y balazos, en ese momento la mente impulsiva toma el control, abres muy bien los ojos instintivamente para identificar el peligro, al mismo tiempo tu boca se abre ligeramente y tomas aire, estas listo para una acción y sin pensarlo estas agachado en el suelo para evitar que alguna bala perdida te golpee. La otra mente es moderada. Pasas por una tienda de ropa y vez un letrero que dice 50% de descuento, la mente impulsiva esta lista para hacer la compra, pero la mente moderada toma el control y te dice, no necesitas más ropa, además a pesar del descuento es un gasto muy grande.&lt;/p&gt;
+
+&lt;p&gt;¿Qué hacemos para que la mente impulsiva no entorpezca nuestras metas a largo plazo?
+No es una tarea sencilla, pero los pasos son muy simples. Hay que generar habitos poco a poco, si intentamos cambiar muchas cosas a la vez nos agotamos y no lo lograremos. Mi recomendación es un habito a la vez.&lt;/p&gt;
+
+&lt;p&gt;Si quieren leer más de este tema, les recomiendo que lean &lt;a href=&quot;https://www.amazon.com.mx/Autocontrol-Kelly-McGonigal-PH-D/dp/8415870922/ref=sr_1_2?ie=UTF8&amp;amp;qid=1534121043&amp;amp;sr=8-2&amp;amp;keywords=the+willpower+instinct&quot; target=&quot;_blank&quot;&gt;Autocontrol&lt;/a&gt; de Kelly McGonigal.&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/08/13/recompenzas.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/08/13/recompenzas.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 13 Aug 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2018/08/13/recompenzas.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/08/13/recompenzas.html</guid>
+      </item>
+    
+      <item>
+        <title>Imaginémonos Cosas Chingonas, ¡Carajo!</title>
+        <description>&lt;p&gt;Soy una persona cuyas creencias estan basadas en datos. Cuando no tengo los datos necesarios, soy como un agnóstico. Para ser más claro, acepto una verdad pero no descarto otras posibilidades, aunque al hacer un autoanálisis me he dado cuenta que también elijo emocionalmente y muchos de mis valores arraigados los elegí en alguna etapa de mi vida sin tener los datos o los hechos, solamente decidí creer entre las pocas opciones presentadas y la mayoría de las veces influenciado por mi círculo social y familiar.&lt;/p&gt;
+
+&lt;p&gt;Dada esta pequeña introducción de mi forma de pensar y la hoy muy famosa frase del chicharito “Imaginémonos cosas chingonas”, la pregunta es:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/imaginemos/chicharito.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Imaginar positivamente o negativamente tiene un resultado en tu vida?
+Estoy seguro que si&lt;/p&gt;
+
+&lt;p&gt;Datos existen, y pruebas seguramente las has experimentado, tal es el caso del efecto placebo.&lt;/p&gt;
+
+&lt;p&gt;Seguramente todos hemos vivido las bondades de este efecto, y si no lo recuerdas tal vez debas preguntar a tus papás como te curaban con dulces, magia o técnicas “milenarias”.&lt;/p&gt;
+
+&lt;p&gt;El placebo debería de ser estudiado más a fondo. En la actualidad llega a tener una conotación negativa. ej. “ahh solo fue un placebo”, “te estan engañando, es un placebo”… WTF!!! Estamos perdiendo de vista algo muy importante. La mente con lo q imaginamos tuvo un impacto no solo en la sensación de bienestar, tuvo un impacto físico y mental.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/imaginemos/placebo.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En 1950 los cardiólogos recomendaban a los pacientes que reportaban dolor de pecho un procedimiento llamado “ligadura de la arteria mamaria interna”. En este procedimiento se abre el pecho por el esternón, previa anestesia y se ata la arteria interna mamaria. Después de esto la sangre fluye mejor al miocardio y todos son felices.&lt;/p&gt;
+
+&lt;p&gt;En 1955 Leonard Cobb decidió probar la eficacia del procedimiento.  No se si lo que hizo era legal en ese momento, supongo que en esta epoca lo lincharían en Facebook, pero bueno, les contaré. Decidió hacer la operación solo en la mitad de sus pacientes y fingirla en la otra mitad.  En la mitad fingida, les puso anestesia, y solo cortó la piel dejando dos incisiones.&lt;/p&gt;
+
+&lt;p&gt;Los resultados. Ambos pacientes reportaron un alivio inmediato del dolor de pecho. En ambos grupos este duro aproximadamente tres meses y luego el dolor regresó. Ninguno de los tratamientos tuvo un effecto a largo plazo.
+Lo cual es descepcionante, y en estos momentos podríamos recibir bien la frase “¡Claro! fue un placebo”
+Pero seguimos perdiendo de vista algo importante, ¿Qué pasó en esos tres meses? Definitivamente la creencia tuvo algo que ver.&lt;/p&gt;
+
+&lt;p&gt;A la fecha se han realizado muchos experimentos para verificar la eficacia de los procedimientos, incluso en Parkinson, donde se perforaba el craneo de pacientes sin realizar el procedimiento y resultó que tuvieron la misma mejoría que los del procedimiento completo.&lt;/p&gt;
+
+&lt;p&gt;Dan Ariely en su libro “The Honest Truth About Disonesty” habla del effecto que tiene usar accesorios piratas. A través de diferentes experimentos llega a una conclusión muy interesante.&lt;/p&gt;
+
+&lt;p&gt;En el experimento se asignaron 3 grupos: Accesorios auténticos, accesorios piratas o no tendrían información de lo que usaban. En la condición auténtica se les dijo a los participantes que estarían usando gafas auténticas “Chloé”.
+En la condición pirata se les dijo que usarían gafas falsificadas que se ven idénticas a los modelos “Chloé” (sin embargo las gafas usadas eran originales). Finalmente en la última condición no se les dijo nada de la autenticidad de las gafas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/imaginemos/gafas.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez que las mujeres se colocaban las gafas, se les dirigió a un pasillo donde tenían que mirar diferentes posters y ventanas para posteriormente evaluar la calidad y experiencia de mirar a través de los anteojos. Posteriormente se les llevó a otra sala donde se les dió una nueva tarea diseñada para evaluar quien hace trampa y en que porcentaje. Básicamente se les pone a resolver algunas preguntas y al finalizar cada participante lleva su evaluación a una trituradora, una vez destruido su examen pasan con el evaluador y le solo mencionan cuantas resolvieron. Lo que no saben es que la trituradora solo hace ruido y las evaluaciones no se destruyen. Aquí los resultados:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;En la condición pirata: El 71% de los participantes reportaron haber resuelto más ejercicios de los que en realidad hicieron.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;En la condición auténtica: El 30% de los participantes reportaron haber resuelto más ejercicios de los que en realidad hicieron.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En conclusión lo que imaginamos a cerca de lo usamos tiene un efecto en como no sentimos de nosotros mismos y como nos sentimos, afecta como nos comportamos.&lt;/p&gt;
+
+&lt;p&gt;Les recomiendo ese libro, es muy entretenido y muy rebelador, mucho de lo que aprendan lo van a poder aplicar a su vida. &lt;a href=&quot;https://www.amazon.com.mx/Honest-Truth-About-Dishonesty-Everyone-especially/dp/0062183613&quot; target=&quot;_blank&quot;&gt;The Honest Truth About Dishonesty&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cada vez sabemos un poco más del efecto placebo pero hasta ahora seguimos sin conocerlo a fondo pero mientras tanto ¡Imaginemonos cosas chingonas, carajo!&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/06/25/imaginemos.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/06/25/imaginemos.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2018/06/25/imaginemos.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/06/25/imaginemos.html</guid>
+      </item>
+    
+      <item>
+        <title>Diseña un Kit de Batería con Xpand 2</title>
+        <description>&lt;p&gt;Xpand es un plug-in que ya viene integrado con pro tools, así que no tiene costo adicional y le puedes sacar mucho provecho.&lt;/p&gt;
+
+&lt;p&gt;Al igual que con muchos otros programas, hay muchos botones y funciones que desconocemos, esto no significa que no podamos usarlos, los creadores muchas veces entregan ajustes preestablecidos que cualquiere puede usar sin ser un experto. Si quieres involucrarte más en la producción sería bueno conocer un poco más.&lt;/p&gt;
+
+&lt;p&gt;Te dejo el video.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oq6uMXGg_L4&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/06/04/xpandDrums.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/06/04/xpandDrums.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 04 Jun 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2018/06/04/xpandDrums.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/06/04/xpandDrums.html</guid>
+      </item>
+    
+      <item>
+        <title>Democracia en Construcción</title>
+        <description>&lt;p&gt;Imagina lo siguiente.&lt;/p&gt;
+
+&lt;p&gt;Te encuentras hibernando en un viaje a 20.5 años luz de te destino. Tú y la demás tripulación llegarán a un exoplaneta que gira alrededor de la estrella enana roja Gliese 581, con la misión de crear una sociedad donde la humanidad pueda florecer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/democracia/gliese581.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La selección de las personas que viajarían en esta misión fue muy dificil. Seleccionando el 1% de la población mundial se obtendría un buen muestreo, conservando mucha diversidad, sin embargo hablar del 1% de la población, es hablar de 76 millones de personas y en este viaje solo hay 760 personas. 
+La selección fue hecha por una Inteligencia Artificial, ¿Cómo lo hizo? Nadie lo sabe, actualmente la mayor parte de los procesos de la IA son desconocidos solo confiamos en que son buenos resultados. (Imagina música de suspenso llegando un poco al terror)&lt;/p&gt;
+
+&lt;p&gt;El primer paso será construir los principios. ¿Qué haremos? ¿Instalaremos gobiernos como en la tierra? ¿Debe existir un jefe? ¿Una comunidad? ¿Una democracia? ¿Un dictador? No sabemos que pasará, todo se irá modificando conforme pasen los días, los años, las decadas, las generaciones. Solo sabemos que antes de venir decidimos optar por una democracia y lo que nos toca es sentar los principios que harán nuestro nuevo planeta nuestro nuevo hogar.&lt;/p&gt;
+
+&lt;p&gt;Las preguntas que nos hicimos fueron:&lt;/p&gt;
+
+&lt;p&gt;¿Por qué tener una democracia?&lt;/p&gt;
+
+&lt;p&gt;¿Debemos tener un sistema para suspender la democracia?&lt;/p&gt;
+
+&lt;p&gt;¿Cuáles son los principios democráticos que estableceremos?&lt;/p&gt;
+
+&lt;p&gt;¿Cómo creamos lazos creativos que nos lleven a una mejor evolución humana?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/democracia/astronauta.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Esta pequeña historia solo es un ejercicio para establecer principios sin prejuicios, sin memes, sin fanáticos políticos, sin pseudo-expertos financieros, sin profetas, y definitivamente sin el primo de un amigo que tiene “la información”. ¿Para qué? El clima político por las elecciones en México es un poco tenso, y no prentendo influenciar tu decisión de ninguna manera, pero si pretendo dejar claro como las discusiones nos llevan a reducir nuestras posibilidades futuras.
+¿Por qué los principios son muy importantes?&lt;/p&gt;
+
+&lt;p&gt;En una de “las batallas filosóficas” en Facebook leí un comentario donde una persona insinuaba que el gobierno actual debería hacer algo para que a pesar de la preferencia electoral se le diera la victoria a alguien alineado a lo que él cree que es mejor, en pocas palabras suspender la democracia (Democracia que en mi punto de vista aun esta en construcción). La violación de este principio es completamente destructivo y pone en peligro la libertad de elegir.&lt;/p&gt;
+
+&lt;p&gt;Cuando protegemos principios nos podemos librar de atender cada situación particular. Un ejemplo es la privacidad. Algunas compañías tecnológicas tienen muy claro este principio.&lt;/p&gt;
+
+&lt;p&gt;Recordemos una historia reciente de Apple. En Diciembre 2 de 2015, 14 personas fueron asesinadas por un ataque terrorista. En la investigación el FBI intentó hackear un iphone de uno de los terroristas, pero ni ellos ni la NSA lo lograron, por lo que piden a Apple crear una nueva versión del sistema operativo que pueda ser instalada y pueda entrar a la RAM para deshabilitar la seguridad del telefono y acceder a la información privada. Tim Cook se negó ya que esa nueva versión era un riesgo para la privacidad de todas las demás personas y aunque el gobierno argumente que lo usará solo en casos limitados, no hay forma de garantizar tal control.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/democracia/iphone.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Este es un caso donde no se pierde el principio, la situación puede ser desesperada, hay terrorismo, es posible que intenten atacar y asesinar otras personas, pero el principio permanece. El sacrificio a largo plazo es peor si caemos en la resolución inmediata. Por mi parte estoy agradecido ya que esto logró que las demás compañias tecnológicas apoyaran la privacidad, fortalecieran sus sistemas y encriptaran nuestra información. (aplausos)&lt;/p&gt;
+
+&lt;p&gt;La siguiente opinión es solo desde lo que alcanzo a ver en mi circulo social, seguramente hay muchos panoramas que no alcanzo a visualizar. (No se ofendan)&lt;/p&gt;
+
+&lt;p&gt;La elección se definirá por dos sectores, los que tienen esperanza de un cambio y los que tienen miedo por un cambio.&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;Los que tienen esperanza de un buen cambio, tienen argumentos que pueden ir desde lo más simple como sentar un precedente democrático cuyo unico cambio positvo es inicio de un mejor México y un mejor futuro a largo plazo,  hasta los que creen que en un sexenio nos convertiremos en primer mundo.
+	&lt;/li&gt;
+	&lt;li&gt;Los que tienen miedo argumentan que el cambio traerá consecuencias negativas, y las opiniones son diversas, desde algo pequeño, pasando por devaluación del dolar, hasta escenarios muy catastróficos.
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;¿Quién tiene la razón?
+En este momento mi respuesta es: Schrödinger’s cat. &lt;br /&gt;
+Todo es posible.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/democracia/schrodingers-bet.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El gato esta muerto y vivo a la vez y hasta que no destapemos la caja no podremos saber.&lt;/p&gt;
+
+&lt;p&gt;Hay quien asegura no necesitar abrir la caja para saber, tal vez porque leyo un par de libros, porque viajo por el mundo, porque tiene un amigo empresario “de los buenos”, porque sabe como se comportará el dolar. Y esta bien no pretendo luchar contra las creencias de nadie, solo quiero sembrar un tema que posiblemente pocos están observando.&lt;/p&gt;
+
+&lt;p&gt;¿Qué determina el exito en la vida de una persona?&lt;/p&gt;
+
+&lt;p&gt;Sin duda hay muchas variables pero una que tiene mucho peso es el tamaño del circulo social.
+En una comunidad la diversidad de pensamiento puede ser una gran herramienta ya que por naturaleza humana tenemos puntos ciegos y el tener una comunidad diversa puede ampliar nuestro campo de visión. 
+La discusión es necesaria pero ¿En dónde está la linea de discusión y una pelea? ¿Hasta que punto vale la pena insultar a quien no piensa como tú? ¿Estás reduciendo tu círculo social? ¿Lo estás haciendo más grande, más fuerte?&lt;/p&gt;
+
+&lt;p&gt;En los próximos años el avance tecnológico destruirá más empleos de lo que puedas imaginar, definitivamente se crearán nuevos, pero necesitarás de un círculo amplio, fuerte y diverso para adaptarte. ¡Cuida tus círculos!&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/05/29/democracia-en-construccion.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/05/29/democracia-en-construccion.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 29 May 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2018/05/29/democracia-en-construccion.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/05/29/democracia-en-construccion.html</guid>
+      </item>
+    
+      <item>
+        <title>Old School Vs New School</title>
+        <description>&lt;p&gt;Hace algunos años pocos podían imaginar que los medios de comunicación, la televisión, la radio, la publicidad en papel, etc. podrían ser desplazados por la tecnología, sin embargo con la llegada de las redes sociales sucedió muy rápido. ¿Recuerdan a Blockbuster? ¿quien podría imaginar que desaparecería? No se necesitó una empresa gigantesca ni cifras impresionantes de dinero, Netflix con el uso de la tecnología llevó a la quiebra a esta empresa y muchas otras dedicadas a la renta de peliculas, y lo hizo a nivel global.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blockbuster.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Quién sigue?
+Tal vez la pregunta sugiere que lleva un orden, no lo creo así, pero creo firmemente que una de las siguientes industrias que sufrirá el avance tecnológico es la industria educativa. Así es, las escuelas como las conocemos primarias, secundarias, preparatorias e incluso universidades, estan en peligro de extinción.&lt;/p&gt;
+
+&lt;p&gt;¿Por qué? ¿Cómo está sucediendo?&lt;/p&gt;
+
+&lt;p&gt;Simple, en 1970 apareció internet, y hoy el avance a sido tal que la tecnología permite crear una nueva forma de educación muy efectiva, y mejor que la escolar.&lt;/p&gt;
+
+&lt;p&gt;Antes teníamos enciclopedias y podiamos usar las mismas por muchos años. Esa información podía estar desacreditada y sin embargo seguíamos estudiándola. Hoy no sucede eso, hoy actualizamos la información con gran velocidad gracias a internet, redes sociales y tecnología.&lt;/p&gt;
+
+&lt;p&gt;Obviamente esto no es suficiente para disrumpir la educación. Las escuelas también usan tecnología en su favor.  Pero tienen un sistema arcáico, y es difícil que se muevan a la velocidad de los avances. En una escuela se crea un plan de estudios, luego se aprueba. El diseño de este plan de estudios lleva tiempo, hay que integrar evaluaciones. Además en muchos paises como en México hay un organismo encargado de verificar lo que estás ofreciendo y decide que es lo obligatorio para cada nivel.
+Entonces al surgir un avance tecnológico, no es posible hacer un cambio de direccion inmediatamente, hay q atravezar un proceso, lo cual deja al viejo sistema en desventaja.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blackboard.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Los que hemos estudiado sabemos que mucho de lo que aprendimos fue determinante en nuestra formación, y estamos agradecidos por ello, sin embargo también sabemos que mucho de lo que aprendimos estaba ahí porque en el pasado funcionaba y ya no era útil. 
+Los que nos hemos integrado al campo laboral sabemos que nos faltaba mucho por aprender, hay mucho que nos hubiera gustado aprender antes de llegar a la batalla laboral.  En el trabajo aprenderás mucho que no te puede dar la escuela y estoy de acuerdo, sin embargo este es un problema y donde hay un problema existe oportunidad, oportunidad que estan aprovechando nuevas empresas que ofrecen una manera diferente de educar.&lt;/p&gt;
+
+&lt;p&gt;Un gran problema en la educación actual son los altos costos. En una universidad particular (México) el costo total es de aproximadamente 1 millon de pesos. Aunque la mayoría de estas escuelas ofrece becas, la realidad es que son muy pocas para las necesidades actuales. Pero existen los prestamos educativos. Digamos que te otorgan un prestamo educativo del 25% de tu colegiatura. Esto te dejará una deuda de 250mil pesos al terminar. Tal vez si logras un sueldo de 25mil pesos y no tienes gastos acabas esa deuda en 10 meses sin considerar los intereses. Pero seamos realistas la gran mayoría no obtendrá ese sueldo y no se de alguien que no tenga gastos. Lo más probable es que esa deuda sea un lastre por varios años.&lt;/p&gt;
+
+&lt;p&gt;La distancia es otro factor que contribuye. Si vives en una ciudad tal vez no te parezca un problema pero existen muchas comunidades alejadas de servicios básicos, la educación por su puesto no esta en las prioridades y dentro de esas comunidades quien quiere estudiar tiene que viajar grandes distancias lo que representa mucho tiempo o un gasto fuerte.&lt;/p&gt;
+
+&lt;p&gt;Y el último problema que les comentaré. La capacidad. No existe capacidad para que todos los que desean estudiar lo hagan.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fullclassroom.jpg&quot; alt=&quot;&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;¿Cómo es que nuevas empresas han solucionado este problema y estan apunto de desplazar a la vieja escuela?&lt;/p&gt;
+
+&lt;p&gt;1.- La capacidad no es un problema. La educación on-line, te da mucha mayor capacidad, y en muchos casos capacidad ilimitada.&lt;/p&gt;
+
+&lt;p&gt;2.- La distancia no es un problema, solo necesitas acceso a internet. Pero no todos tienen internet. Si, el acceso esta limitado pero estamos llegando muy rápido incluso a las comunidades de menores recursos a precios muy bajos e incluso gratuitos.&lt;/p&gt;
+
+&lt;p&gt;3.- El costo es extremadamente bajo y existen muchas opciones gratis.&lt;/p&gt;
+
+&lt;p&gt;4.- Se pueden abordar nuevos temas, nuevas tecnologías sin preguntarle a nadie, simplemente estan a disposición de quien quiera tomarlos.&lt;/p&gt;
+
+&lt;p&gt;5.- Educación sumamente efectiva, aprendes lo que necesitas para incluirte en la industria. Puedes revisar plataformas como &lt;a href=&quot;https://www.udacity.com/&quot; target=&quot;_blank&quot;&gt;Udacity&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org/&quot; target=&quot;_blank&quot;&gt;Coursera&lt;/a&gt;, &lt;a href=&quot;https://www.udemy.com/&quot; target=&quot;_blank&quot;&gt;Udemy&lt;/a&gt;, &lt;a href=&quot;https://www.khanacademy.org/&quot; target=&quot;_blank&quot;&gt;Khan Academy.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;6.- Algunas de estas nuevas empresas estan tan segura de la calidad de su educación que en muchos de sus cursos ofrecen una garantía. Por ejemplo: “Consigues empleo en 6 meses o te regresamos tu dinero”&lt;/p&gt;
+
+&lt;p&gt;He escuchado que las escuelas seguiran ahí, xq los padres quieren que sus hijos se relacionen con otras personas y no les gusta que estén en internet.
+Estoy de acuerdo, sin embargo eso no determina lo que sucederá, el factor determinante será económico. Es decir, habrá un sector que quiera la vieja escuela pero no tendrá los ingresos suficientes para pagar. La siguiente opción será educación publica, pero el cupo es limitado, entonces tendremos un gran porcentaje de la población que verá la opción de educación en linea como la más viable.&lt;/p&gt;
+
+&lt;p&gt;Somos seres sociales, la interacción social no se terminará, solo evolucionará, se seguirá dando en clubs, grupos de música, arte, comunidades de ayuda, etc. Además la tecnología pronto nos dará realidad virtual al alcance de todos, y creo será tan buena que será muy dificil distinguir la realidad base, de la realidad virtual.&lt;/p&gt;
+
+&lt;p&gt;¿Qué avances crees tendremos en 10 años y como será la educación? ¿Aún crees que las mismas escuelas seguirán en pie?&lt;/p&gt;
+
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/blogposts.css&quot; /&gt;
+
+&lt;p&gt;Sígueme en twitter &lt;a href=&quot;https://www.twitter.com/al_andrade&quot; target=&quot;_blank&quot;&gt;@al_andrade&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A//al4ndrade.github.io/2018/05/14/OldSchool-vs-NewSchool.html&quot; target=&quot;_blank&quot;&gt; Comparte en Facebook &lt;img src=&quot;/icons/smallfacebook-icon-grey.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://localhost:4000/2018/05/14/OldSchool-vs-NewSchool.html&quot; data-numposts=&quot;5&quot;&gt;&lt;/div&gt;
+
+</description>
+        <pubDate>Mon, 14 May 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000//2018/05/14/OldSchool-vs-NewSchool.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2018/05/14/OldSchool-vs-NewSchool.html</guid>
+      </item>
+    
+  </channel>
+</rss>
