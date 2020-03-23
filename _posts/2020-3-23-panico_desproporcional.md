@@ -23,15 +23,15 @@ Tenemos datos muy claros de todo el mundo, pero sabemos que por la naturaleza de
 
 Si existe, pero la dimensión del peligro no es proporcional al pánico generado. 
 
-El peligro es el crecimiento exponencial. Si sabes un poco de funciones exponenciales, no hay que explicar, pero para los que huyeron de mate. Demos un ejemplo muy claro.
+El peligro es el crecimiento exponencial. Si sabes un poco de funciones exponenciales, no hay que explicar, pero demos un ejemplo para los que huyeron de mate:
 
-Si tienes un peso el 1o de enero y duplicas la cantidad cada día el 31 de enero tendrías mil setenta y tres millones, setecientos cuarenta y un mil ochocientos veinticuatro pesos. ¡Wow!
+	Si tienes un peso el 1o de enero y duplicas la cantidad cada día, el 31 de enero tendrías mil setenta y tres millones, setecientos cuarenta y un mil ochocientos veinticuatro pesos. ¡Wow!
 
 <h2>Analicemos el caso de Italia y México</h2> 
 
-Si juntamos la curva de manera que el día en que México llegó a 15 contagiados e Italia 20, la gráfica quedaría de esta manera.
+Si juntamos la curva de manera que el día en que México llegó a 15 contagiados coincida con el día en que Italia llegó a 20, la gráfica quedaría de esta manera.
 
-![]({{site.baseurl}}/images/covid19/mex_vs_it.png){:class="img-responsive"}
+![]({{site.baseurl}}/images/covid19/mex_vs_ita.png){:class="img-responsive"}
 
 En comparación con ellos estamos haciendo un gran trabajo. ¡Aplausos!
 
@@ -39,11 +39,32 @@ En comparación con ellos estamos haciendo un gran trabajo. ¡Aplausos!
 
 Ahora si juntamos la curva con Estados Unidos, de manera que el día en que ellos y nosotros llegamos a 15 casos, la curva se vería de esta manera.
 
-![]({{site.baseurl}}/images/covid19/mex_vs_eu.png){:class="img-responsive"}
+![]({{site.baseurl}}/images/covid19/mex_vs_usa.png){:class="img-responsive"}
 
 Prácticamente es la misma curva. EU se encontraba en este punto el 7 de marzo y sabemos que hoy 22 de marzo EU tiene 33276 casos. 
+Los siguientes días definirán que tan rápido crecemos, posiblemente a la velocidad de nuestros vecinos del norte. La evidencia sugiere que de cualquier manera tendremos muchos casos, y la estrategia será disminuir la velocidad del contagio, pero es inevitable.
 
 Entonces ¿cómo vamos? Mi pensar es que vamos bastante bien y si incrementamos nuestra higiene y respetamos las indicaciones de la Secretaría de Salud saldremos de esta crisis. Crisis que como explico al inicio de este blog es más una crisis de pánico y el problema que viene es económico. Será difícil pero con muchas áreas de oportunidad, pero ese es un tema que necesita mayor profundidad que no trataré en este post.
+
+<h2>Sucesos de pánico</h2>
+
+<h3>Vuelos</h3>
+
+![]({{site.baseurl}}/images/covid19/aterrizaje.png){:class="img-responsive"}
+
+El presidente de Ecuador Lenin Moreno, autorizó para que dos aviones, uno español y otro holandés pudieran aterrizar y recoger ciudadanos europeos. Sin embargo la alcadesa de Guayaquil ordenó a varios vehículos municipales que entrasen a las pistas del aeropuerto para impedir el aterrizaje. ¿Miedo? En este caso tal vez solo un pleito político.
+
+El presidente del Salvador cerrándole las puertas a sus connacionales solo por la sospecha de contagio. Hasta ahora ninguno a resultado positivo.
+
+<h3>Cruceros</h3>
+
+Como una manera de protegerse, algunas personas ven como una buena acción dejar personas en un barco buscando que país los deja bajar. Tal vez pienses que son casos aislados pero no fue solo un caso. Incluso en San Francisco estuvo un crucero algunos días hasta que por fin los dejaron bajar. 
+
+La propagación del virus desde que salió de China ya era inevitable. Abandonar personas por miedo de una enfermedad con tan baja letalidad para mi no es racional.
+
+Seguramente seguiremos enterandonos de más casos de esta naturaleza, más aún si el miedo es quien gobierna nuestras acciones.
+
+<h3>Conclusión</h3>
 
 En conclusión, ¡Don't Panic!<br> 
 
