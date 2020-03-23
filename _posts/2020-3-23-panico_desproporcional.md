@@ -73,7 +73,7 @@ En conclusión, ¡Don't Panic! ...<br>
 Hice una reflexión y voy a modificar mi conclusión.<br>
 
 ¿El pánico puede ayudar a evitar el contagio? <br>
-Si, entonces tengamos pánico al contagio pero moderación a las acciones que perjudiquen el bienestar común.
+Si. Entonces tengamos pánico al contagio pero moderación a las acciones que perjudiquen el bienestar común.
 
 Comparte si crees que puede contribuir a ser un contrapeso contra el miedo irracional que predomina en nuestro país.
 
