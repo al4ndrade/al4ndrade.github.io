@@ -68,7 +68,10 @@ Seguramente seguiremos enterandonos de más casos de esta naturaleza, más aún 
 
 <h3>Conclusión</h3>
 
-En conclusión, ¡Don't Panic! pero contribuye a contener este virus<br> 
+En conclusión, ¡Don't Panic! ...<br>
+
+Hice una reflexión y voy a modificar mi conclusión.
+Tengamos pánico al contagio, pero moderación a las acciones que perjudiquen el bienestar comun.
 
 Comparte si crees que puede contribuir a ser un contrapeso contra el miedo irracional que predomina en nuestro país.
 
