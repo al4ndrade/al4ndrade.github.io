@@ -35,7 +35,9 @@ Si juntamos la curva de manera que el día en que México llegó a 15 contagiado
 
 En comparación con ellos estamos haciendo un gran trabajo. ¡Aplausos!
 
-<h2>México vs EU</h2>
+Pero...
+
+<h2>México vs EU (La mala noticia)</h2>
 
 Ahora si juntamos la curva con Estados Unidos, de manera que el día en que ellos y nosotros llegamos a 15 casos, la curva se vería de esta manera.
 
@@ -44,7 +46,7 @@ Ahora si juntamos la curva con Estados Unidos, de manera que el día en que ello
 Prácticamente es la misma curva. EU se encontraba en este punto el 7 de marzo y sabemos que hoy 22 de marzo EU tiene 33276 casos. 
 Los siguientes días definirán que tan rápido crecemos, posiblemente a la velocidad de nuestros vecinos del norte. La evidencia sugiere que de cualquier manera tendremos muchos casos, y la estrategia será disminuir la velocidad del contagio, pero es inevitable.
 
-Entonces ¿cómo vamos? Mi pensar es que vamos bastante bien y si incrementamos nuestra higiene y respetamos las indicaciones de la Secretaría de Salud saldremos de esta crisis. Crisis que como explico al inicio de este blog es más una crisis de pánico y el problema que viene es económico. Será difícil pero con muchas áreas de oportunidad, pero ese es un tema que necesita mayor profundidad que no trataré en este post.
+Entonces ¿cómo vamos? Mi pensar es que vamos bien pero aún con peligro de que se salga de nuestras manos y eso lo veremos en los siguientes días. Si incrementamos nuestra higiene y respetamos las indicaciones de la Secretaría de Salud podremos salir menos dañados de esta crisis. Crisis que como explico al inicio de este blog es tiene adjunta una crisis de pánico y el problema que viene es económico. Será difícil pero con muchas áreas de oportunidad, pero ese es un tema que necesita mayor profundidad que no trataré en este post.
 
 <h2>Sucesos de pánico</h2>
 
@@ -66,7 +68,7 @@ Seguramente seguiremos enterandonos de más casos de esta naturaleza, más aún 
 
 <h3>Conclusión</h3>
 
-En conclusión, ¡Don't Panic!<br> 
+En conclusión, ¡Don't Panic! pero contribuye a contener este virus<br> 
 
 Comparte si crees que puede contribuir a ser un contrapeso contra el miedo irracional que predomina en nuestro país.
 
