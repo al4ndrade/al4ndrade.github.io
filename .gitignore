@@ -1,6 +1,9 @@
 #folders
 _site
 
+images/.DS_Store
+_drafts
+
 # Compiled source #
 ###################
 *.com
