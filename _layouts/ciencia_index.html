@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div id="main" class="wrapper style1">
+	<div class="container">
+		<header class="major">
+			<h2>Ciencia y Tecnología</h2>
+		     <p>Algunos proyectos, investigación y código que estoy orgulloso de compartir.</p>
+		</header>
+	</div>
+
+
+	<div class="box alt">
+
+		{%- if site.science_posts.size > 0 -%}
+		
+		
+		<div class="row gtr-50 gtr-uniform">
+			{% for post in site.science_posts %}
+			<div class="col-4 col-6-medium col-12-small">
+				<a href="{{ post.url | relative_url }}">
+					<div>
+						<span class="image fit">
+							<img src="{{ post.image | escape }}" alt="" />
+							<div class="align-center">
+								<strong>{{ post.title | escape }}</strong>
+							</div>
+						</span>
+					</div>
+				</a>
+			</div>
+			
+			{% endfor %}
+			
+		</div>
+		
+		{% endif %}
+	</div>
+
+</div>

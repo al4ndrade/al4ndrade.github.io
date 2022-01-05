@@ -7,29 +7,33 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mi mente, mis ideas, mi blog.
+
+title: Al4ndrade
 email: al4ndrade@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  El título de este Blog "Mi mente, mis ideas, mi blog" describe mucho lo que podrás encontrar
-  aquí. Te invito a que leas y compartas las publicaciones que encuentres interesantes.
-  Bienvenido a mi Blog. Yo soy Al Andrade. ¡Disfruta!
+  Un lugar para todos mis proyectos. Mi blog, mis mis proyectos
+  y mis proyectos tecnológicos, principalmente programación en
+  python.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://al4ndrade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: al_andrade
 github_username:  al4ndrade
 
+
 # Build settings
-markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 defaults:
   -
@@ -38,16 +42,30 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Al Andrade"
+      author: "Al4ndrade"
 
+
+collections:
+  science_posts:
+    output: true
+
+collections_dir: my_collections
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
 # exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
+#   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/

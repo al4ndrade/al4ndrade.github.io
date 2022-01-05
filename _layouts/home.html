@@ -2,29 +2,78 @@
 layout: default
 ---
 
-<div class="home">
-  {% if page.title %}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {% endif %}
+<section id="banner">
+  
+<div class="content">
+  <header>
+    <h2>Nuestra vida es solo un instante</h2>
+    <p>Hagamos que valga la pena.</p>
 
-  {{ content }}
-
-  {% if site.posts.size > 0 %}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {% for post in site.posts %}
-        <li>
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h3>
-        </li>
-      {% endfor %}
-    </ul>
-
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {% endif %}
-
+  </header>
+  <span class="image"><img src="images/profile_pic.jpg" alt="" /></span>
 </div>
+<a href="#one" class="goto-next scrolly">Next</a>
+
+</section>
+
+<!-- One -->
+        <section id="one" class="spotlight style1 bottom">
+          <span class="image fit main"><img src="images/steve-johnson-unsplash.jpg" alt="" /></span>
+          <div class="content">
+            <div class="container">
+              <div class="row">
+                <div class="col-4 col-12-medium">
+                  <header>
+                    <h2>Mi mente, mis ideas, mi blog</h2>
+                    <p>¿Quieres conocerme? Esta es la sección adecuada.</p>
+                  </header>
+                </div>
+                <div class="col-4 col-12-medium">
+                  <p>A veces mis pensamientos suenan geniales en mi cabeza, pero cuando los empiezo a escribir, muchos suenan ridículos, y no logro entender por qué existe esa brecha tan grande en la percepción de las ideas antes de ser escritas o incluso habladas. Afortunadamente no tengo porque entender la razón, solo me es útil saber que existe esa diferencia y de eso si me puedo hacer cargo.
+.</p>
+                </div>
+                <div class="col-4 col-12-medium">
+                  <p>Este blog es un espacio para aterrizar estas ideas y compartir una versión mejor estructurada de ellas.</p>
+
+                  <ul class="actions">
+                    <li><a href="blog_index.html" class="button">Ir al Blog</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a href="#two" class="goto-next scrolly">Next</a>
+        </section>
+
+      <!-- Two -->
+        <section id="two" class="spotlight style2 right">
+          <span class="image fit main"><img src="images/hao-wang.jpg" alt="" /></span>
+          <div class="content">
+            <header>
+              <h2>Mis proyectos musicales</h2>
+              <p></p>
+            </header>
+            <p>Esta sección no está terminada, pero podrás encontrar algunos links de los proyectos de los que formé parte o formo parte.</p>
+            <ul class="actions">
+              <li><a href="music_index.html" class="button">Ir</a></li>
+            </ul>
+          </div>
+          <a href="#three" class="goto-next scrolly">Next</a>
+        </section>
+
+      <!-- Three -->
+        <section id="three" class="spotlight style3 left">
+          <span class="image fit main bottom"><img src="images/python_code.jpg" alt="" /></span>
+          <div class="content">
+            <header>
+              <h2>Python Codes</h2>
+              <p>Algunos programas de los que me siento orgulloso de compartir</p>
+            </header>
+            <p>Hace un par de años inicié un canal para hablar de tecnología, pero rápidamente se transformó en un canal donde explico como hacer ciertos programas con python, y esto derivó en algunos programas que requieren explicación y puedes revisar en github.</p>
+            <ul class="actions">
+              <li><a href="ciencia_index.html" class="button">Aprender más</a></li>
+            </ul>
+          </div>
+          <!-- <a href="#four" class="goto-next scrolly">Next</a> -->
+        </section>
+

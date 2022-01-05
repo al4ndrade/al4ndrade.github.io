@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+
+      <!-- Main -->
+        <div id="main" class="wrapper style1">
+          <div class="container">
+            <header class="major">
+              <h2>Mi mente, mis ideas, mi blog</h2>
+              <p>Nuestra vida es solo un instante. Hagamos que valga la pena.</p>
+            </header>
+
+
+            <div class="align-center"> 
+              {%- if site.posts.size > 0 -%}
+              <h2 class="">{{ page.list_title | default: "Últimas Publicaciones" }}</h2>
+              <ul class="alt">
+              {%- for post in site.posts -%}
+                <li>
+                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+                  <span class="post-meta">{{ post.date | date: date_format }}</span>
+                  <h3>
+                    <a class="post-link" href="{{ post.url | relative_url }}">
+                    {{ post.title | escape }}
+                    </a>
+                  </h3>
+                  {%- if site.show_excerpts -%}
+                  {{ post.excerpt }}
+                  {%- endif -%}
+                </li>
+              {%- endfor -%}
+              </ul>
+              {%- endif -%}
+            </div>
+          </div>
+        </div>
+           
+
+    
+
+   
