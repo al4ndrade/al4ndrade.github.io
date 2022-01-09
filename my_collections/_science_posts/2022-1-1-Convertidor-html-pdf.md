@@ -6,7 +6,7 @@ image: images/sci/htmlpdf/htmlpdf.jpg
 date: 2022-1-2
 ---
 
-El siguiente código que muestro a continuación, es uno de los códigos que utilizo con bastante frecuencia. Lo escribí por la necesidad de enviar comunicados en formato pdf, lo cual con las herramientas adecuadas no es nada complicado, sin embargo, no tengo un procesador de texto que convierta a pdf, por lo tanto me di a la tarea de crear este convertidor y dado que me es muy sencillo escribir en html, me ha funcionado a la perfección.
+El código que muestro a continuación, es uno de los códigos que utilizo con bastante frecuencia. Lo escribí por la necesidad de enviar comunicados en formato pdf, lo cual con las herramientas adecuadas no es nada complicado, sin embargo, no tengo un procesador de texto que convierta a pdf, por lo tanto me di a la tarea de crear este convertidor y dado que me es muy sencillo escribir en html, me ha funcionado a la perfección.
 
 ## Requerimientos
 
