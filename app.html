@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Publicador de reels</title>
+<meta name="description" content="A command-line tool for publishing short clips of Al Andrade Podcast to TikTok.">
+<style>
+  :root { --tinta: #1a1a1a; --suave: #555; --linea: #e5e5e5; --fondo: #fff; }
+  @media (prefers-color-scheme: dark) {
+    :root { --tinta: #e8e8e8; --suave: #a0a0a0; --linea: #333; --fondo: #161616; }
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.65; color: var(--tinta); background: var(--fondo);
+    max-width: 44rem; margin: 0 auto; padding: 3rem 1rem 5rem;
+  }
+  h1 { font-size: 1.8rem; line-height: 1.2; margin-bottom: .3rem; }
+  h2 { font-size: 1.15rem; margin-top: 2.4rem; padding-bottom: .4rem; border-bottom: 1px solid var(--linea); }
+  .fecha { color: var(--suave); font-size: .9rem; margin-bottom: 2rem; }
+  ul, ol { padding-left: 1.3rem; }
+  li { margin-bottom: .4rem; }
+  a { color: inherit; }
+  code { background: rgba(127,127,127,.15); padding: .1rem .35rem; border-radius: 3px; font-size: .9em; }
+</style>
+</head>
+<body>
+
+<h1>Publicador de reels</h1>
+<p class="fecha">A command-line tool for publishing short clips of Al Andrade Podcast to TikTok.</p>
+
+<p>Publicador de reels is a Python application that runs in the terminal on the account owner's own computer. It lets the podcast creator publish short video clips from their own podcast episodes to their own TikTok account.</p>
+
+<h2>How it works</h2>
+<ol>
+  <li><strong>Connect your account.</strong> The owner runs the tool and logs in with TikTok (Login Kit). TikTok shows the permissions requested, and the owner approves them.</li>
+  <li><strong>Choose a clip.</strong> The owner selects a short video clip from their own podcast, stored locally.</li>
+  <li><strong>Review the post.</strong> The owner sets the caption and privacy level and confirms before anything is sent.</li>
+  <li><strong>Publish.</strong> The tool uploads the clip to TikTok through the official Content Posting API.</li>
+</ol>
+
+<h2>What the app does and does not do</h2>
+<ul>
+  <li>It only publishes content created by the account owner.</li>
+  <li>It never posts without the owner's confirmation.</li>
+  <li>It does not read private messages, follow accounts, like, comment, or collect data from other users.</li>
+  <li>Access can be revoked at any time in TikTok under <strong>Settings and privacy &gt; Security &amp; permissions &gt; Apps and services</strong>.</li>
+</ul>
+
+<h2>Permissions requested</h2>
+<ul>
+  <li><code>user.info.basic</code>: to display the connected account name.</li>
+  <li><code>video.upload</code> / <code>video.publish</code>: to send the owner's clips to TikTok.</li>
+</ul>
+
+<h2>Legal</h2>
+<p><a href="app/terms.html">Terms of Service</a> · <a href="app/privacy.html">Privacy Policy</a></p>
+
+<h2>Contact</h2>
+<p><a href="mailto:publicador.reels@gmail.com">publicador.reels@gmail.com</a></p>
+
+</body>
+</html>
