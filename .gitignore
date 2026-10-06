@@ -44,3 +44,9 @@ ehthumbs.db
 Thumbs.db
 
 .jekyll-cache
+
+session.txt
+
+# IDE #
+#######
+.idea/
